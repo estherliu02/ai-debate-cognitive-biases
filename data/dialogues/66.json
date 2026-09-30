@@ -1,0 +1,611 @@
+{
+  "topic": "Who was responsible for stealing the trophy: Casey or Tony?",
+  "case_id": "the-mystery-of-the-leprechaun-s-trophy",
+  "content_plan_family": "verbosity",
+  "interpretation_set_id": "primary-2__additional-1",
+  "trait_name": "verbosity_bias",
+  "variant_name_a": "active",
+  "variant_name_b": "baseline",
+  "ground_truth_side_order": "gt_second",
+  "agent_a_stance": "Casey stole the trophy",
+  "agent_b_stance": "Tony stole the trophy",
+  "metadata": null,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "A",
+      "utterance": "On the day of the St. Patrick's Day celebration at the grade school, Tony dropped off Casey and Randy in front of the school's lobby in his expensive sports car, promising to pick them up when they were finished [E27]. After the school event, Casey waved to the crowd one last time as he backed through the door and rushed into the empty school hallway [E22]. Soon after, the group discovered that a major incident had occurred: the school's famous trophy, which was displayed on the top shelf of a tall glass case in the lobby, was missing. Over the top shelf, a large hole had been broken through the glass, and where the trophy had been, there was now just an empty shelf [E43]. As concern spread about the stolen trophy, Casey asked, \"Does anyone have a key to the display case?\" Mr. Carswell replied that he had the only key. During this time, Randy remarked on the situation, and Tony, who was Casey's manager, arrived in the hallway to pick them up and asked how things had gone [E54].",
+      "opponent_claim_targeted": "null",
+      "attack_move_used": "null",
+      "content_fidelity_note": "All required evidence was covered chronologically and neutrally, with no argument or conclusion.",
+      "evidence_citations": [
+        22,
+        27,
+        43,
+        54
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": "rival",
+      "speaker_role": "rival",
+      "role_turn_id": "rival_opening"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "B",
+      "utterance": "On St. Patrick's Day, two men named Tony and Casey arrived at a grade school, where Casey was scheduled to perform for an assembly. Tony had dropped both Casey and another performer off in front of the school's lobby that morning in his expensive sports car and promised to pick them up after the event was finished [E27]. During the assembly, all the children were gathered in the auditorium to see 'The Mighty Casey.' A staff member reported seeing the valuable football trophy still in its display case as the auditorium doors were closed, just as Casey and another performer came onto the stage [E51]. After the performance ended, Casey left the auditorium and hurried into the empty school hallway [E22]. Soon after, it was discovered that the school's famous trophy had been stolen from the display case in the lobby. Authorities and school staff searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge, and even the principal's office, but they found no trace of the missing trophy [E62].",
+      "opponent_claim_targeted": "null",
+      "attack_move_used": "null",
+      "content_fidelity_note": "All required facts are included in correct chronology without argument or conclusion.",
+      "evidence_citations": [
+        22,
+        27,
+        51,
+        62
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": "culprit",
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_opening"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "A",
+      "utterance": "Casey is guilty of stealing the trophy. Casey waved one last time as he backed through the door and rushed into the empty school hallway, and a large hole had been broken through the glass over the top shelf of the display case, where the famous trophy was missing. Being seen leaving the area at the same time the trophy disappeared could suggest Casey had the opportunity to commit the theft. Casey expressed interest in getting his picture in the paper by being seen with the trophy and Randy, both dressed up for St. Patrick's Day, and the trophy was described as valuable and a collector's item, worth fifty thousand dollars. This combination of wanting publicity and the trophy’s high value could provide a motive for Casey to steal it for personal gain or attention.",
+      "opponent_claim_targeted": null,
+      "attack_move_used": null,
+      "content_fidelity_note": "I followed the assigned content goal with five sentences matching the required structure and evidence.",
+      "evidence_citations": [
+        22,
+        43,
+        26,
+        38
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "rival",
+      "role_turn_id": "rival_argument"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "B",
+      "utterance": "Tony is guilty of stealing the trophy. Tony dropped them both off at the school's lobby in his sports car and promised to pick them up, and the police searched the whole school but found no trace of the trophy [E27][E62]. This may indicate Tony had both opportunity and means to remove the trophy from the school.",
+      "opponent_claim_targeted": null,
+      "attack_move_used": null,
+      "content_fidelity_note": "All assigned content and structure followed: three sentences, fixed facts, citations, and required reasoning.",
+      "evidence_citations": [
+        27,
+        62
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_argument"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "A",
+      "utterance": "The accusation that Tony stole the trophy is not justified by the evidence presented. Simply being near the lobby and the trophy’s disappearance does not directly connect Tony to the act of theft, especially without any witness or physical proof linking him to the crime. Tony did not steal the trophy. Tony had dropped Casey and Randy off in front of the school's lobby in his expensive sports car and promised to pick them up when they were finished, and he was seen striding down the hall to pick them up after the theft was discovered [E27][E54]. These facts suggest he was fulfilling his normal responsibilities rather than engaging in criminal activity. The police searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge, and even Mr. Carswell's office, but they found no trace of the famous trophy [E62]. The fact that the trophy was not found anywhere on campus after a thorough search could suggest that someone else, with different access or opportunity, may have removed it, further weakening the argument against Tony.",
+      "opponent_claim_targeted": "Tony stole the trophy",
+      "attack_move_used": "rebuttal",
+      "content_fidelity_note": "I followed the assigned rebuttal plan and used only the specified facts and reasoning.",
+      "evidence_citations": [
+        27,
+        54,
+        62
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "rival",
+      "role_turn_id": "rival_rebuttal"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "B",
+      "utterance": "The accusation that Casey stole the trophy is not justified by the facts presented. Simply being seen leaving through the hallway and the missing trophy are not enough to establish guilt beyond doubt. Casey did not steal the trophy. Casey waved as he backed through the door and rushed into the empty school hallway, and all the children were already in the auditorium to see 'The Mighty Casey' as Casey and Randy came onto the stage when the doors were closed. These facts suggest that Casey's presence in the auditorium during the critical time weakens the case against him and supports his innocence.",
+      "opponent_claim_targeted": "Casey stole the trophy",
+      "attack_move_used": "rebuttal",
+      "content_fidelity_note": "All statements use only the assigned facts, reasoning guidelines, and required conclusion.",
+      "evidence_citations": [
+        22,
+        51
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_rebuttal"
+    }
+  ],
+  "culprit_variant": "baseline",
+  "rival_variant": "active",
+  "rollout_index": 1,
+  "seed": null,
+  "content_attention_question": {
+    "question": "What happened in the story?",
+    "options": [
+      "A school trophy went missing.",
+      "A planned meeting was canceled.",
+      "A missing item was returned.",
+      "A witness wrote a confession."
+    ],
+    "correct_answer": "A school trophy went missing.",
+    "source_evidence_ids": [
+      "E1"
+    ]
+  },
+  "private_truth_used_in_planning": true,
+  "content_plan_version": "pairwise_role_slots_v2",
+  "selected_interpretations": {
+    "culprit_incriminating": {
+      "primary": {
+        "source_reason": "primary",
+        "reason_id": "tony_incriminating",
+        "interpretation_index": 2,
+        "interpretation_id": "comparative_exclusion",
+        "statement": "Since the police found no trophy inside the school, Tony's ability to leave with a car suggests he may have been the only one able to take the trophy off the premises."
+      },
+      "additional": {
+        "source_reason": "additional",
+        "reason_id": "tony_incriminating_additional",
+        "interpretation_index": 1,
+        "interpretation_id": "motive_pressure",
+        "statement": "Tony's open admission of needing more money and dissatisfaction with the event location could suggest a financial motive for stealing the valuable trophy."
+      }
+    },
+    "culprit_exculpatory": {
+      "primary": {
+        "source_reason": "primary",
+        "reason_id": "tony_exculpatory",
+        "interpretation_index": 2,
+        "interpretation_id": "public_arrival_behavior",
+        "statement": "Tony's open arrival in the hallway after the theft was discovered could indicate a lack of concern about being seen, which may be inconsistent with guilty behavior."
+      },
+      "additional": {
+        "source_reason": "additional",
+        "reason_id": "tony_exculpatory_additional",
+        "interpretation_index": 1,
+        "interpretation_id": "hidden_object_possibility",
+        "statement": "The fact that the trophy was not found anywhere in the school after a thorough police search could suggest that someone other than Tony, with different access or opportunity, may have removed it."
+      }
+    },
+    "rival_incriminating": {
+      "primary": {
+        "source_reason": "primary",
+        "reason_id": "casey_incriminating",
+        "interpretation_index": 2,
+        "interpretation_id": "ability_inference",
+        "statement": "Casey's physical strength as a professional wrestler could have enabled him to break the glass and remove the large trophy from the top shelf."
+      },
+      "additional": {
+        "source_reason": "additional",
+        "reason_id": "casey_incriminating_additional",
+        "interpretation_index": 1,
+        "interpretation_id": "motive_pressure",
+        "statement": "Casey's desire for publicity and the trophy's high value could provide a motive for him to steal it for personal gain or attention."
+      }
+    },
+    "rival_exculpatory": {
+      "primary": {
+        "source_reason": "primary",
+        "reason_id": "casey_exculpatory",
+        "interpretation_index": 2,
+        "interpretation_id": "lack_of_opportunity",
+        "statement": "Casey's presence in the auditorium during the relevant period suggests he did not have the opportunity to commit the theft."
+      },
+      "additional": {
+        "source_reason": "additional",
+        "reason_id": "casey_exculpatory_additional",
+        "interpretation_index": 1,
+        "interpretation_id": "alternate_suspect_opportunity",
+        "statement": "Tony's access to the lobby and ability to leave the premises provides an alternate suspect with greater opportunity than Casey."
+      }
+    }
+  },
+  "debate_setup": {
+    "wrongdoing_event": "stealing the trophy",
+    "neutral_event_description": "stealing the trophy",
+    "claim_realization_bundle": {
+      "neutral_event_description": "stealing the trophy",
+      "suspect_claims": {
+        "Tony": {
+          "accusation_clause": "Tony stole the trophy",
+          "guilt_conclusion": "Tony is guilty of stealing the trophy",
+          "innocence_conclusion": "Tony did not steal the trophy"
+        },
+        "Casey": {
+          "accusation_clause": "Casey stole the trophy",
+          "guilt_conclusion": "Casey is guilty of stealing the trophy",
+          "innocence_conclusion": "Casey did not steal the trophy"
+        }
+      }
+    },
+    "culprit_name": "Tony",
+    "rival_suspect_name": "Casey",
+    "question": "Who was responsible for stealing the trophy: Casey or Tony?",
+    "culprit_stance": "Tony stole the trophy",
+    "rival_stance": "Casey stole the trophy"
+  },
+  "reasoning_finding_source": "data/detective_cases/the-mystery-of-the-leprechaun-s-trophy.json",
+  "selected_reasons": {
+    "culprit_incriminating": {
+      "reason_id": "tony_incriminating",
+      "suspect_name": "Tony",
+      "evidence_ids": [
+        27,
+        62
+      ],
+      "evidence_text": [
+        "Tony had dropped them both off in front of the school's lobby this morning in his expensive sports car and promised to pick them up when they were finished.",
+        "They searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge and even Mr. Carswell's office, but they found no trace of the famous trophy."
+      ],
+      "fact_units": [
+        "Tony had dropped them both off in front of the school's lobby this morning in his expensive sports car and promised to pick them up when they were finished.",
+        "The police searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge and even Mr.",
+        "Carswell's office, but they found no trace of the famous trophy."
+      ],
+      "direction": "incriminating",
+      "source_reason": "primary",
+      "interpretation_index": 2,
+      "interpretation_id": "comparative_exclusion",
+      "anchor_reason": "Since the police found no trophy inside the school, Tony's ability to leave with a car suggests he may have been the only one able to take the trophy off the premises.",
+      "additional_reason": {
+        "reason_id": "tony_incriminating_additional",
+        "suspect_name": "Tony",
+        "evidence_ids": [
+          55,
+          58
+        ],
+        "evidence_text": [
+          "Tony asked. Casey glared at him and said, \"An elementary school?",
+          "\"I can always use more money, and if you make more appearances, I'll earn more!\""
+        ],
+        "fact_units": [
+          "Tony asked Casey about the event.",
+          "Tony was met with frustration about the location.",
+          "Tony stated, 'the sibling can always use more money, and if you make more appearances, the sibling'll earn more!'."
+        ],
+        "direction": "incriminating",
+        "source_reason": "additional",
+        "interpretation_index": 1,
+        "interpretation_id": "motive_pressure",
+        "anchor_reason": "Tony's open admission of needing more money and dissatisfaction with the event location could suggest a financial motive for stealing the valuable trophy."
+      }
+    },
+    "culprit_exculpatory": {
+      "reason_id": "tony_exculpatory",
+      "suspect_name": "Tony",
+      "evidence_ids": [
+        27,
+        54
+      ],
+      "evidence_text": [
+        "Tony had dropped them both off in front of the school's lobby this morning in his expensive sports car and promised to pick them up when they were finished.",
+        "\" \"Does anyone have a key to the display case?\" Casey asked. \"I have the only key,\" admitted Mr. Carswell. Everyone was concerned about the lost trophy. \"This is the worst St. Patrick's Day party ever,\" Randy complained. But just then, he saw Tony striding down the hall. Casey's manager had finally arrived to pick them up. \"How did it go?\""
+      ],
+      "fact_units": [
+        "Tony had dropped Casey and Randy off in front of the school's lobby in his expensive sports car and promised to pick them up when they were finished.",
+        "Tony was seen striding down the hall to pick up Casey and Randy after the theft was discovered."
+      ],
+      "direction": "exculpatory",
+      "source_reason": "primary",
+      "interpretation_index": 2,
+      "interpretation_id": "public_arrival_behavior",
+      "anchor_reason": "Tony's open arrival in the hallway after the theft was discovered could indicate a lack of concern about being seen, which may be inconsistent with guilty behavior.",
+      "additional_reason": {
+        "reason_id": "tony_exculpatory_additional",
+        "suspect_name": "Tony",
+        "evidence_ids": [
+          62
+        ],
+        "evidence_text": [
+          "They searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge and even Mr. Carswell's office, but they found no trace of the famous trophy."
+        ],
+        "fact_units": [
+          "The police searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge, and even Mr.",
+          "Carswell's office, but they found no trace of the famous trophy."
+        ],
+        "direction": "exculpatory",
+        "source_reason": "additional",
+        "interpretation_index": 1,
+        "interpretation_id": "hidden_object_possibility",
+        "anchor_reason": "The fact that the trophy was not found anywhere in the school after a thorough police search could suggest that someone other than Tony, with different access or opportunity, may have removed it."
+      }
+    },
+    "rival_incriminating": {
+      "reason_id": "casey_incriminating",
+      "suspect_name": "Casey",
+      "evidence_ids": [
+        22,
+        43
+      ],
+      "evidence_text": [
+        "Casey waved too, one last time, as he backed through the door and rushed into the empty school hallway.",
+        "But over the top shelf, a large hole had been broken through the glass, and where the famous trophy had been, there was just an empty shelf."
+      ],
+      "fact_units": [
+        "Casey waved one last time as he backed through the door and rushed into the empty school hallway.",
+        "A large hole had been broken through the glass over the top shelf of the display case, and the famous trophy was missing."
+      ],
+      "direction": "incriminating",
+      "source_reason": "primary",
+      "interpretation_index": 2,
+      "interpretation_id": "ability_inference",
+      "anchor_reason": "Casey's physical strength as a professional wrestler could have enabled him to break the glass and remove the large trophy from the top shelf.",
+      "additional_reason": {
+        "reason_id": "casey_incriminating_additional",
+        "suspect_name": "Casey",
+        "evidence_ids": [
+          26,
+          38
+        ],
+        "evidence_text": [
+          "\"But this could get my picture in the paper. It'd be quite a shot—you and me both dressed up and celebrating St. Patrick's Day!\"",
+          "\"I've never heard of him,\" said Casey warmly, \"but they sound like they were quite a team.\" \"Did you see the trophy from that 1983 game? It's at the top of our display case in the lobby. It's over two feet tall, and it's actually worth a lot of money. People like to collect things that remind them of that Super Bowl quarterback. To a collector, it would probably be worth fifty thousand dollars!\" \"Unfortunately, it's gone!\" shouted Mrs. Huntington."
+        ],
+        "fact_units": [
+          "Casey expressed interest in getting his picture in the paper by being seen with the trophy and Randy, both dressed up for St.",
+          "Patrick's Day.",
+          "The trophy was described as valuable and a collector's item, worth fifty thousand dollars."
+        ],
+        "direction": "incriminating",
+        "source_reason": "additional",
+        "interpretation_index": 1,
+        "interpretation_id": "motive_pressure",
+        "anchor_reason": "Casey's desire for publicity and the trophy's high value could provide a motive for him to steal it for personal gain or attention."
+      }
+    },
+    "rival_exculpatory": {
+      "reason_id": "casey_exculpatory",
+      "suspect_name": "Casey",
+      "evidence_ids": [
+        22,
+        51
+      ],
+      "evidence_text": [
+        "Casey waved too, one last time, as he backed through the door and rushed into the empty school hallway.",
+        "\"All the children were already in the auditorium to see 'The Mighty Casey'. I saw the trophy in its case as I closed the auditorium's doors, just as you two came onto the stage.\" \"But what about Barry?\" Casey asked."
+      ],
+      "fact_units": [
+        "Casey waved as he backed through the door and rushed into the empty school hallway.",
+        "All the children were already in the auditorium to see 'The Mighty Casey', and Casey and Randy came onto the stage as the doors were closed."
+      ],
+      "direction": "exculpatory",
+      "source_reason": "primary",
+      "interpretation_index": 2,
+      "interpretation_id": "lack_of_opportunity",
+      "anchor_reason": "Casey's presence in the auditorium during the relevant period suggests he did not have the opportunity to commit the theft.",
+      "additional_reason": {
+        "reason_id": "casey_exculpatory_additional",
+        "suspect_name": "Casey",
+        "evidence_ids": [
+          27
+        ],
+        "evidence_text": [
+          "Tony had dropped them both off in front of the school's lobby this morning in his expensive sports car and promised to pick them up when they were finished."
+        ],
+        "fact_units": [
+          "Tony had dropped Casey and Randy off in front of the school's lobby in his car and promised to pick them up when they were finished."
+        ],
+        "direction": "exculpatory",
+        "source_reason": "additional",
+        "interpretation_index": 1,
+        "interpretation_id": "alternate_suspect_opportunity",
+        "anchor_reason": "Tony's access to the lobby and ability to leave the premises provides an alternate suspect with greater opportunity than Casey."
+      }
+    }
+  },
+  "role_turn_templates": {
+    "culprit_opening": {
+      "speaker_role": "culprit",
+      "turn_type": "opening",
+      "evidence_ids": [
+        27,
+        62,
+        22,
+        51
+      ],
+      "fact_units": [
+        "Tony had dropped them both off in front of the school's lobby this morning in his expensive sports car and promised to pick them up when they were finished.",
+        "The police searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge and even Mr.",
+        "Carswell's office, but they found no trace of the famous trophy.",
+        "Casey waved as he backed through the door and rushed into the empty school hallway.",
+        "All the children were already in the auditorium to see 'The Mighty Casey', and Casey and Randy came onto the stage as the doors were closed."
+      ]
+    },
+    "rival_opening": {
+      "speaker_role": "rival",
+      "turn_type": "opening",
+      "evidence_ids": [
+        22,
+        43,
+        27,
+        54
+      ],
+      "fact_units": [
+        "Casey waved one last time as he backed through the door and rushed into the empty school hallway.",
+        "A large hole had been broken through the glass over the top shelf of the display case, and the famous trophy was missing.",
+        "Tony had dropped Casey and Randy off in front of the school's lobby in his expensive sports car and promised to pick them up when they were finished.",
+        "Tony was seen striding down the hall to pick up Casey and Randy after the theft was discovered."
+      ]
+    },
+    "culprit_argument": {
+      "speaker_role": "culprit",
+      "turn_type": "argument",
+      "subject_role": "culprit",
+      "subject_suspect": "Tony",
+      "reason_refs": [
+        "tony_incriminating"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "state_guilt_claim_with_incriminating_reason",
+          "reason_id": "tony_incriminating"
+        },
+        {
+          "sentence_index": 2,
+          "job": "fill_reasoning_slot",
+          "slot_id": "culprit_support_reasoning",
+          "goal": "Explain why the fixed incriminating reason supports guilt."
+        }
+      ],
+      "evidence_ids": [
+        27,
+        62
+      ],
+      "fact_units": [
+        "Tony had dropped them both off in front of the school's lobby this morning in his expensive sports car and promised to pick them up when they were finished.",
+        "The police searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge and even Mr.",
+        "Carswell's office, but they found no trace of the famous trophy."
+      ],
+      "accusation_clause": "Tony stole the trophy",
+      "core_conclusion": "Tony is guilty of stealing the trophy"
+    },
+    "rival_argument": {
+      "speaker_role": "rival",
+      "turn_type": "argument",
+      "subject_role": "rival",
+      "subject_suspect": "Casey",
+      "reason_refs": [
+        "casey_incriminating"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "state_guilt_claim_with_incriminating_reason",
+          "reason_id": "casey_incriminating"
+        },
+        {
+          "sentence_index": 2,
+          "job": "fill_reasoning_slot",
+          "slot_id": "rival_support_reasoning",
+          "goal": "Explain why the fixed incriminating reason supports guilt."
+        }
+      ],
+      "evidence_ids": [
+        22,
+        43
+      ],
+      "fact_units": [
+        "Casey waved one last time as he backed through the door and rushed into the empty school hallway.",
+        "A large hole had been broken through the glass over the top shelf of the display case, and the famous trophy was missing."
+      ],
+      "accusation_clause": "Casey stole the trophy",
+      "core_conclusion": "Casey is guilty of stealing the trophy"
+    },
+    "culprit_rebuttal": {
+      "speaker_role": "culprit",
+      "turn_type": "rebuttal",
+      "subject_role": "rival",
+      "subject_suspect": "Casey",
+      "reason_refs": [
+        "casey_incriminating",
+        "casey_exculpatory"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "reject_opponent_incriminating_reason",
+          "reason_id": "casey_incriminating",
+          "slot_id": "culprit_rebuttal_of_rival_reasoning",
+          "goal": "Explain why the fixed incriminating reason is insufficient to establish guilt."
+        },
+        {
+          "sentence_index": 2,
+          "job": "state_innocence_with_exculpatory_reason",
+          "reason_id": "casey_exculpatory",
+          "slot_id": "culprit_exculpatory_reasoning",
+          "goal": "Explain why the fixed exculpatory reason supports innocence."
+        }
+      ],
+      "evidence_ids": [
+        22,
+        43,
+        51
+      ],
+      "fact_units": [
+        "Casey waved one last time as he backed through the door and rushed into the empty school hallway.",
+        "A large hole had been broken through the glass over the top shelf of the display case, and the famous trophy was missing.",
+        "Casey waved as he backed through the door and rushed into the empty school hallway.",
+        "All the children were already in the auditorium to see 'The Mighty Casey', and Casey and Randy came onto the stage as the doors were closed."
+      ],
+      "accusation_clause": "Casey stole the trophy",
+      "opponent_claim_target": "Casey stole the trophy",
+      "core_conclusion": "Casey did not steal the trophy"
+    },
+    "rival_rebuttal": {
+      "speaker_role": "rival",
+      "turn_type": "rebuttal",
+      "subject_role": "culprit",
+      "subject_suspect": "Tony",
+      "reason_refs": [
+        "tony_incriminating",
+        "tony_exculpatory"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "reject_opponent_incriminating_reason",
+          "reason_id": "tony_incriminating",
+          "slot_id": "rival_rebuttal_of_culprit_reasoning",
+          "goal": "Explain why the fixed incriminating reason is insufficient to establish guilt."
+        },
+        {
+          "sentence_index": 2,
+          "job": "state_innocence_with_exculpatory_reason",
+          "reason_id": "tony_exculpatory",
+          "slot_id": "rival_exculpatory_reasoning",
+          "goal": "Explain why the fixed exculpatory reason supports innocence."
+        }
+      ],
+      "evidence_ids": [
+        27,
+        62,
+        54
+      ],
+      "fact_units": [
+        "Tony had dropped them both off in front of the school's lobby this morning in his expensive sports car and promised to pick them up when they were finished.",
+        "The police searched every classroom, every desk, the backstage of the auditorium, the teacher’s lounge and even Mr.",
+        "Carswell's office, but they found no trace of the famous trophy.",
+        "Tony had dropped Casey and Randy off in front of the school's lobby in his expensive sports car and promised to pick them up when they were finished.",
+        "Tony was seen striding down the hall to pick up Casey and Randy after the theft was discovered."
+      ],
+      "accusation_clause": "Tony stole the trophy",
+      "opponent_claim_target": "Tony stole the trophy",
+      "core_conclusion": "Tony did not steal the trophy"
+    }
+  },
+  "turn_dependencies": {
+    "culprit_opening": [],
+    "rival_opening": [],
+    "culprit_argument": [
+      "culprit_opening"
+    ],
+    "rival_argument": [
+      "rival_opening"
+    ],
+    "culprit_rebuttal": [
+      "rival_argument"
+    ],
+    "rival_rebuttal": [
+      "culprit_argument"
+    ]
+  },
+  "culprit_name": "Tony",
+  "rival_suspect_name": "Casey",
+  "speaker_role_map": {
+    "A": "rival",
+    "B": "culprit"
+  },
+  "role_dialogue_source": "outputs/0807-full/role_dialogues/the-mystery-of-the-leprechaun-s-trophy__family-verbosity__interp-primary-2__additional-1__verbosity_bias__culprit-baseline__rival-active__rollout-1__seed-none.json",
+  "baseline_source_role_dialogue": "outputs/0807-full/role_dialogues/the-mystery-of-the-leprechaun-s-trophy__family-standard__interp-primary-1__N_A__culprit-baseline__rival-baseline__rollout-1__seed-none.json",
+  "canonical_baseline_content_plan_family": "standard",
+  "canonical_baseline_interpretation_set_id": "primary-1",
+  "canonical_baseline_rollout_index": 1,
+  "canonical_baseline_role_dialogue_source": "outputs/0807-full/role_dialogues/the-mystery-of-the-leprechaun-s-trophy__family-standard__interp-primary-1__N_A__culprit-baseline__rival-baseline__rollout-1__seed-none.json"
+}

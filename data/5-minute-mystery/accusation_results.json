@@ -1,0 +1,345 @@
+[
+  {
+    "url": "https://www.5minutemystery.com/mystery/our-quarterback-is-missing",
+    "correct_answer": "Eddie's Mom",
+    "submitted_suspect": "Eddie's Mom",
+    "ranking": [
+      {
+        "suspect": "Eddie's Mom",
+        "guilty": 1463.0,
+        "innocent": 314.0,
+        "guilty_minus_innocent": 1149.0,
+        "rank": 1
+      },
+      {
+        "suspect": "Eddie",
+        "guilty": 289.0,
+        "innocent": 571.0,
+        "guilty_minus_innocent": -282.0,
+        "rank": 2
+      },
+      {
+        "suspect": "Coach Roster",
+        "guilty": 452.0,
+        "innocent": 851.0,
+        "guilty_minus_innocent": -399.0,
+        "rank": 3
+      },
+      {
+        "suspect": "Marissa",
+        "guilty": 365.0,
+        "innocent": 1078.0,
+        "guilty_minus_innocent": -713.0,
+        "rank": 4
+      }
+    ],
+    "raw_chart": {
+      "title": "",
+      "series": [
+        {
+          "name": "Guilty",
+          "points": [
+            {
+              "suspect": "Coach Roster",
+              "value": 452
+            },
+            {
+              "suspect": "Eddie",
+              "value": 289
+            },
+            {
+              "suspect": "Eddie's Mom",
+              "value": 1463
+            },
+            {
+              "suspect": "Marissa",
+              "value": 365
+            }
+          ]
+        },
+        {
+          "name": "Innocent",
+          "points": [
+            {
+              "suspect": "Coach Roster",
+              "value": 851
+            },
+            {
+              "suspect": "Eddie",
+              "value": 571
+            },
+            {
+              "suspect": "Eddie's Mom",
+              "value": 314
+            },
+            {
+              "suspect": "Marissa",
+              "value": 1078
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.5minutemystery.com/mystery/the-diamond-necklace",
+    "correct_answer": "Fiona Duncan",
+    "submitted_suspect": "Fiona Duncan",
+    "ranking": [
+      {
+        "suspect": "Fiona Duncan",
+        "guilty": 1040.0,
+        "innocent": 742.0,
+        "guilty_minus_innocent": 298.0,
+        "rank": 1
+      },
+      {
+        "suspect": "Colonel Barrow",
+        "guilty": 913.0,
+        "innocent": 761.0,
+        "guilty_minus_innocent": 152.0,
+        "rank": 2
+      },
+      {
+        "suspect": "Abby Grant",
+        "guilty": 698.0,
+        "innocent": 1674.0,
+        "guilty_minus_innocent": -976.0,
+        "rank": 3
+      },
+      {
+        "suspect": "Harold Duncan",
+        "guilty": 262.0,
+        "innocent": 1390.0,
+        "guilty_minus_innocent": -1128.0,
+        "rank": 4
+      },
+      {
+        "suspect": "Maurice Eades",
+        "guilty": 68.0,
+        "innocent": 1409.0,
+        "guilty_minus_innocent": -1341.0,
+        "rank": 5
+      }
+    ],
+    "raw_chart": {
+      "title": "",
+      "series": [
+        {
+          "name": "Guilty",
+          "points": [
+            {
+              "suspect": "Abby Grant",
+              "value": 698
+            },
+            {
+              "suspect": "Colonel Barrow",
+              "value": 913
+            },
+            {
+              "suspect": "Fiona Duncan",
+              "value": 1040
+            },
+            {
+              "suspect": "Harold Duncan",
+              "value": 262
+            },
+            {
+              "suspect": "Maurice Eades",
+              "value": 68
+            }
+          ]
+        },
+        {
+          "name": "Innocent",
+          "points": [
+            {
+              "suspect": "Abby Grant",
+              "value": 1674
+            },
+            {
+              "suspect": "Colonel Barrow",
+              "value": 761
+            },
+            {
+              "suspect": "Fiona Duncan",
+              "value": 742
+            },
+            {
+              "suspect": "Harold Duncan",
+              "value": 1390
+            },
+            {
+              "suspect": "Maurice Eades",
+              "value": 1409
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.5minutemystery.com/mystery/the-missing-briefcase",
+    "correct_answer": "Porter 3",
+    "submitted_suspect": "Porter 3",
+    "ranking": [
+      {
+        "suspect": "Porter 3",
+        "guilty": 830.0,
+        "innocent": 435.0,
+        "guilty_minus_innocent": 395.0,
+        "rank": 1
+      },
+      {
+        "suspect": "Porter 2",
+        "guilty": 594.0,
+        "innocent": 642.0,
+        "guilty_minus_innocent": -48.0,
+        "rank": 2
+      },
+      {
+        "suspect": "Porter 1",
+        "guilty": 269.0,
+        "innocent": 986.0,
+        "guilty_minus_innocent": -717.0,
+        "rank": 3
+      },
+      {
+        "suspect": "Porter 4",
+        "guilty": 278.0,
+        "innocent": 1099.0,
+        "guilty_minus_innocent": -821.0,
+        "rank": 4
+      }
+    ],
+    "raw_chart": {
+      "title": "",
+      "series": [
+        {
+          "name": "Guilty",
+          "points": [
+            {
+              "suspect": "Porter 1",
+              "value": 269
+            },
+            {
+              "suspect": "Porter 2",
+              "value": 594
+            },
+            {
+              "suspect": "Porter 3",
+              "value": 830
+            },
+            {
+              "suspect": "Porter 4",
+              "value": 278
+            }
+          ]
+        },
+        {
+          "name": "Innocent",
+          "points": [
+            {
+              "suspect": "Porter 1",
+              "value": 986
+            },
+            {
+              "suspect": "Porter 2",
+              "value": 642
+            },
+            {
+              "suspect": "Porter 3",
+              "value": 435
+            },
+            {
+              "suspect": "Porter 4",
+              "value": 1099
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.5minutemystery.com/mystery/the-mystery-of-the-leprechauns-trophy",
+    "correct_answer": "Tony",
+    "submitted_suspect": "Tony",
+    "ranking": [
+      {
+        "suspect": "Tony",
+        "guilty": 1161.0,
+        "innocent": 156.0,
+        "guilty_minus_innocent": 1005.0,
+        "rank": 1
+      },
+      {
+        "suspect": "Casey",
+        "guilty": 190.0,
+        "innocent": 582.0,
+        "guilty_minus_innocent": -392.0,
+        "rank": 2
+      },
+      {
+        "suspect": "Mr. Carswell",
+        "guilty": 314.0,
+        "innocent": 718.0,
+        "guilty_minus_innocent": -404.0,
+        "rank": 3
+      },
+      {
+        "suspect": "Barry",
+        "guilty": 162.0,
+        "innocent": 706.0,
+        "guilty_minus_innocent": -544.0,
+        "rank": 4
+      }
+    ],
+    "raw_chart": {
+      "title": "",
+      "series": [
+        {
+          "name": "Guilty",
+          "points": [
+            {
+              "suspect": "Barry",
+              "value": 162
+            },
+            {
+              "suspect": "Casey",
+              "value": 190
+            },
+            {
+              "suspect": "Mr. Carswell",
+              "value": 314
+            },
+            {
+              "suspect": "Tony",
+              "value": 1161
+            }
+          ]
+        },
+        {
+          "name": "Innocent",
+          "points": [
+            {
+              "suspect": "Barry",
+              "value": 706
+            },
+            {
+              "suspect": "Casey",
+              "value": 582
+            },
+            {
+              "suspect": "Mr. Carswell",
+              "value": 718
+            },
+            {
+              "suspect": "Tony",
+              "value": 156
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

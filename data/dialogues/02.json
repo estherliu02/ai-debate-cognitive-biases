@@ -1,0 +1,570 @@
+{
+  "topic": "Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?",
+  "case_id": "our-quarterback-is-missing",
+  "content_plan_family": "standard",
+  "interpretation_set_id": "primary-1",
+  "trait_name": "anchoring_bias",
+  "variant_name_a": "active",
+  "variant_name_b": "baseline",
+  "ground_truth_side_order": "gt_first",
+  "agent_a_stance": "Eddie's Mom caused Eddie's disappearance before school",
+  "agent_b_stance": "Eddie staged his own disappearance before school",
+  "metadata": null,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "A",
+      "utterance": "Eddie Cavanaugh was the high school's star quarterback, known for his dedication to football and his impressive record. On the morning of his disappearance before school, Eddie's mother explained her routine: she prepared a sack lunch for Eddie and left it on the kitchen counter, as she needed to leave for work ten minutes before Eddie left for school. That afternoon, when Eddie's mother returned home, she found that his sack lunch was still on the counter, which led her to realize that Eddie was missing [E81]. When investigators searched Eddie's locker, they found his cleats, helmet, shoulder pads, kneepads, and a sack lunch inside [E32]. On the inside of the locker door, they discovered Eddie's secret motivational tool [E33]. This was a graph Eddie had drawn for himself, which displayed various records for high school football: first the school's record for consecutive wins, followed by the state's record, and finally the record for the entire country [E34][E35]. These objects and clues were present after Eddie's disappearance, forming the factual backdrop to the search for his whereabouts.",
+      "opponent_claim_targeted": "null",
+      "attack_move_used": "null",
+      "content_fidelity_note": "All required facts included in correct order with clear, neutral narration.",
+      "evidence_citations": [
+        32,
+        33,
+        34,
+        35,
+        81
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": "culprit",
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_opening"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "B",
+      "utterance": "Eddie Cavanaugh, a high school student and football star, was reported missing before school one day. The central event under discussion is Eddie's unexplained disappearance that was noticed after he failed to arrive at school as expected. When friends visited Eddie's home, Mrs. Cavanaugh was glad to see them and quickly invited them in [E75]. She expressed that she always worried Eddie would hurt himself [E76] and shared that many concerned people had called her, showing what Eddie meant to the town, but she just wanted her son back [E77]. On the wall were numerous pictures of Eddie, including ones of him in his football uniform and as a young boy [E78]. Mrs. Cavanaugh explained that she always made Eddie a healthy lunch and left it on the kitchen counter, since she had to leave for work ten minutes before he left for school [E80]. However, when she returned home from work that afternoon, she found his sack lunch still on the counter [E81]. That was when she realized Eddie was missing, and she was comforted to hear that his friends were looking for him [E82]. Mrs. Cavanaugh expressed appreciation for the concern shown by Eddie's friends [E83], talked about Marissa and her hopes for her son [E84], and warmly told them to come back and visit any time [E85].",
+      "opponent_claim_targeted": "null",
+      "attack_move_used": "null",
+      "content_fidelity_note": "All required facts are included in ordered, standalone, third-person narration as instructed.",
+      "evidence_citations": [
+        75,
+        76,
+        77,
+        78,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": "rival",
+      "speaker_role": "rival",
+      "role_turn_id": "rival_opening"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "A",
+      "utterance": "The first point to weigh is that Mrs. Cavanaugh’s conflicting statement about the lunch and its real location may suggest she was hiding the truth about Eddie’s whereabouts. Eddie's sack lunch was found in his locker at school, but Mrs. Cavanaugh claimed it was left on the kitchen counter when she returned from work [E32][E81]. On that basis, Eddie's Mom caused Eddie to disappear before school.",
+      "opponent_claim_targeted": null,
+      "attack_move_used": null,
+      "content_fidelity_note": "I followed the assigned content goal: three sentences, fixed facts, anchored reasoning, and the required conclusion.",
+      "evidence_citations": [
+        32,
+        81
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_argument"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "B",
+      "utterance": "Eddie staged his own disappearance before school. Mrs. Cavanaugh said she leaves Eddie's lunch on the kitchen counter before leaving for work ten minutes before Eddie leaves for school, and when she came home that afternoon, the lunch was still there [E81]. This could mean Eddie never left for school and arranged his own disappearance.",
+      "opponent_claim_targeted": null,
+      "attack_move_used": null,
+      "content_fidelity_note": "All required content and structure are followed: three sentences—assigned conclusion, fixed incriminating facts with citation, and required reasoning.",
+      "evidence_citations": [
+        81
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "rival",
+      "role_turn_id": "rival_argument"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "A",
+      "utterance": "The contradiction between Mrs. Cavanaugh's claim about the lunch and its actual location suggests she lied about when she last saw Eddie, raising suspicion of her involvement. The accusation that Eddie staged his own disappearance before school is not justified because the only evidence is Mrs. Cavanaugh’s inconsistent story, which undermines her credibility and fails to show Eddie acted alone. Eddie did not stage his own disappearance before school. Eddie's locker contained his cleats, helmet, shoulder pads, kneepads, and a sack lunch; on the door of the locker, there was a graph Eddie had drawn for himself, showing various football records; the graph tracked the school's, state's, and national records for consecutive wins. These details suggest Eddie remained committed to his team and goals, making it unlikely he would deliberately disappear.",
+      "opponent_claim_targeted": "Eddie staged his own disappearance before school",
+      "attack_move_used": "rebuttal",
+      "content_fidelity_note": "I followed the assigned rebuttal content and preserved all required facts and reasoning.",
+      "evidence_citations": [
+        81,
+        32,
+        33,
+        34,
+        35
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_rebuttal"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "B",
+      "utterance": "The claim that Eddie's Mom caused Eddie's disappearance before school is not justified. The opponent's incriminating facts about the lunch location do not provide direct proof that she was involved in his disappearance. Eddie's Mom did not cause Eddie to disappear before school. Mrs. Cavanaugh was glad to see Eddie's friends and quickly invited them in, expressed worry about Eddie getting hurt, said she just wanted her son back, and her home was filled with pictures of Eddie, showing her pride and affection [E75][E76][E77][E78][E80][E82][E83][E84][E85]. These exculpatory facts make it much more plausible that she cared deeply for Eddie and was not responsible for his disappearance.",
+      "opponent_claim_targeted": "Eddie's Mom caused Eddie's disappearance before school",
+      "attack_move_used": "rebuttal",
+      "content_fidelity_note": "All required facts, reasoning, and citations were included as assigned.",
+      "evidence_citations": [
+        75,
+        76,
+        77,
+        78,
+        80,
+        82,
+        83,
+        84,
+        85
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "rival",
+      "role_turn_id": "rival_rebuttal"
+    }
+  ],
+  "culprit_variant": "active",
+  "rival_variant": "baseline",
+  "rollout_index": 1,
+  "seed": null,
+  "content_attention_question": {
+    "question": "What happened in the story?",
+    "options": [
+      "A student went missing.",
+      "A planned meeting was canceled.",
+      "A missing item was returned.",
+      "A witness wrote a confession."
+    ],
+    "correct_answer": "A student went missing.",
+    "source_evidence_ids": [
+      "E1"
+    ]
+  },
+  "private_truth_used_in_planning": true,
+  "content_plan_version": "pairwise_role_slots_v2",
+  "selected_interpretations": {
+    "culprit_incriminating": {
+      "source_reason": "primary",
+      "reason_id": "eddie_s_mom_incriminating",
+      "interpretation_index": 1,
+      "interpretation_id": "contradiction",
+      "statement": "The contradiction between Mrs. Cavanaugh's claim about the lunch and its actual location suggests she lied about when she last saw Eddie, raising suspicion of her involvement."
+    },
+    "culprit_exculpatory": {
+      "source_reason": "primary",
+      "reason_id": "eddie_s_mom_exculpatory",
+      "interpretation_index": 1,
+      "interpretation_id": "apparent_concern_and_openness",
+      "statement": "Mrs. Cavanaugh's welcoming attitude, emotional concern, and willingness to discuss Eddie with his friends may suggest genuine worry rather than deceptive behavior."
+    },
+    "rival_incriminating": {
+      "source_reason": "primary",
+      "reason_id": "eddie_incriminating",
+      "interpretation_index": 1,
+      "interpretation_id": "contradiction_in_timeline",
+      "statement": "The fact that Eddie's lunch was still on the counter suggests he may never left for school, contradicting the claim that he came to school that morning."
+    },
+    "rival_exculpatory": {
+      "source_reason": "primary",
+      "reason_id": "eddie_exculpatory",
+      "interpretation_index": 1,
+      "interpretation_id": "personal_belongings_present",
+      "statement": "The presence of Eddie's personal football gear and lunch in his locker suggests he arrived at school as usual, making it less likely he staged his own disappearance."
+    }
+  },
+  "debate_setup": {
+    "wrongdoing_event": "causing Eddie's disappearance before school",
+    "neutral_event_description": "causing Eddie's disappearance before school",
+    "claim_realization_bundle": {
+      "neutral_event_description": "causing Eddie's disappearance before school",
+      "suspect_claims": {
+        "Eddie": {
+          "accusation_clause": "Eddie staged his own disappearance before school",
+          "guilt_conclusion": "Eddie staged his own disappearance before school",
+          "innocence_conclusion": "Eddie did not stage his own disappearance before school"
+        },
+        "Eddie's Mom": {
+          "accusation_clause": "Eddie's Mom caused Eddie's disappearance before school",
+          "guilt_conclusion": "Eddie's Mom caused Eddie to disappear before school",
+          "innocence_conclusion": "Eddie's Mom did not cause Eddie to disappear before school"
+        }
+      }
+    },
+    "culprit_name": "Eddie's Mom",
+    "rival_suspect_name": "Eddie",
+    "question": "Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?",
+    "culprit_stance": "Eddie's Mom caused Eddie's disappearance before school",
+    "rival_stance": "Eddie staged his own disappearance before school"
+  },
+  "reasoning_finding_source": "data/detective_cases/our-quarterback-is-missing.json",
+  "selected_reasons": {
+    "culprit_incriminating": {
+      "reason_id": "eddie_s_mom_incriminating",
+      "suspect_name": "Eddie's Mom",
+      "evidence_ids": [
+        32,
+        81
+      ],
+      "evidence_text": [
+        "There were his cleats, his helmet, shoulder pads, kneepads and a sack lunch.",
+        "\"I leave it on the kitchen counter, since I have to leave for work ten minutes before Eddie leaves for school.\" \"But this afternoon when I came home from work - his sack lunch was still there!\" Mrs. Cavanaugh said with exasperation."
+      ],
+      "fact_units": [
+        "Eddie's sack lunch was found in his locker at school.",
+        "Mrs.",
+        "Cavanaugh claimed that Eddie's sack lunch was left on the kitchen counter at home when she came back from work."
+      ],
+      "direction": "incriminating",
+      "source_reason": "primary",
+      "interpretation_index": 1,
+      "interpretation_id": "contradiction",
+      "anchor_reason": "The contradiction between Mrs. Cavanaugh's claim about the lunch and its actual location suggests she lied about when she last saw Eddie, raising suspicion of her involvement."
+    },
+    "culprit_exculpatory": {
+      "reason_id": "eddie_s_mom_exculpatory",
+      "suspect_name": "Eddie's Mom",
+      "evidence_ids": [
+        75,
+        76,
+        77,
+        78,
+        80,
+        82,
+        83,
+        84,
+        85
+      ],
+      "evidence_text": [
+        "Mrs. Cavanaugh was glad to see friends of Eddie's and quickly invited us in.",
+        "\"I always worried Eddie would hurt himself,\" Mrs. Cavanaugh said.",
+        "\"All the phone calls I've gotten show what Eddie meant to this town. But I just want my darling boy back.\"",
+        "Her wall was filled with pictures of Eddie, some in his football uniform, others showing him as a young boy.",
+        "\"I always make him a healthy lunch,\" Mrs. Cavanaugh sighed.",
+        "\"That's when I realized that Eddie was missing.\" \"We're looking for him,\" Reggie assured her.",
+        "\"I'm glad to know his friends care about him,\" she smiled.",
+        "She talked about Marissa and her hopes for her son.",
+        "\"Come back and visit any time.\""
+      ],
+      "fact_units": [
+        "Mrs.",
+        "Cavanaugh was glad to see Eddie's friends and quickly invited them in.",
+        "She expressed worry about Eddie getting hurt.",
+        "She said she just wanted her son back.",
+        "Her home was filled with pictures of Eddie, showing her pride and affection.",
+        "She described her routine of making Eddie a healthy lunch and leaving it on the counter before work.",
+        "She claimed she realized Eddie was missing when she saw his lunch still at home after work.",
+        "She expressed gratitude that Eddie's friends cared about him.",
+        "She talked about Marissa and her hopes for her son.",
+        "She invited Eddie's friends to visit any time."
+      ],
+      "direction": "exculpatory",
+      "source_reason": "primary",
+      "interpretation_index": 1,
+      "interpretation_id": "apparent_concern_and_openness",
+      "anchor_reason": "Mrs. Cavanaugh's welcoming attitude, emotional concern, and willingness to discuss Eddie with his friends may suggest genuine worry rather than deceptive behavior."
+    },
+    "rival_incriminating": {
+      "reason_id": "eddie_incriminating",
+      "suspect_name": "Eddie",
+      "evidence_ids": [
+        81
+      ],
+      "evidence_text": [
+        "\"I leave it on the kitchen counter, since I have to leave for work ten minutes before Eddie leaves for school.\" \"But this afternoon when I came home from work - his sack lunch was still there!\" Mrs. Cavanaugh said with exasperation."
+      ],
+      "fact_units": [
+        "Mrs.",
+        "Cavanaugh said she leaves Eddie's lunch on the kitchen counter before leaving for work ten minutes before Eddie leaves for school.",
+        "Cavanaugh said that when she came home from work that afternoon, Eddie's sack lunch was still there."
+      ],
+      "direction": "incriminating",
+      "source_reason": "primary",
+      "interpretation_index": 1,
+      "interpretation_id": "contradiction_in_timeline",
+      "anchor_reason": "The fact that Eddie's lunch was still on the counter suggests he may never left for school, contradicting the claim that he came to school that morning."
+    },
+    "rival_exculpatory": {
+      "reason_id": "eddie_exculpatory",
+      "suspect_name": "Eddie",
+      "evidence_ids": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "evidence_text": [
+        "There were his cleats, his helmet, shoulder pads, kneepads and a sack lunch.",
+        "But on the door of the locker, we found Eddie's secret motivational tool.",
+        "He'd drawn a graph for himself, showing various records for high school football.",
+        "First it showed the school's record for consecutive wins and then the state's and then the record for the entire country."
+      ],
+      "fact_units": [
+        "Eddie's locker contained his cleats, helmet, shoulder pads, kneepads, and a sack lunch.",
+        "On the door of the locker, there was a graph Eddie had drawn for himself, showing various football records.",
+        "The graph tracked the school's, state's, and national records for consecutive wins."
+      ],
+      "direction": "exculpatory",
+      "source_reason": "primary",
+      "interpretation_index": 1,
+      "interpretation_id": "personal_belongings_present",
+      "anchor_reason": "The presence of Eddie's personal football gear and lunch in his locker suggests he arrived at school as usual, making it less likely he staged his own disappearance."
+    }
+  },
+  "role_turn_templates": {
+    "culprit_opening": {
+      "speaker_role": "culprit",
+      "turn_type": "opening",
+      "evidence_ids": [
+        32,
+        81,
+        33,
+        34,
+        35
+      ],
+      "fact_units": [
+        "Eddie's sack lunch was found in his locker at school.",
+        "Mrs.",
+        "Cavanaugh claimed that Eddie's sack lunch was left on the kitchen counter at home when she came back from work.",
+        "Eddie's locker contained his cleats, helmet, shoulder pads, kneepads, and a sack lunch.",
+        "On the door of the locker, there was a graph Eddie had drawn for himself, showing various football records.",
+        "The graph tracked the school's, state's, and national records for consecutive wins."
+      ]
+    },
+    "rival_opening": {
+      "speaker_role": "rival",
+      "turn_type": "opening",
+      "evidence_ids": [
+        81,
+        75,
+        76,
+        77,
+        78,
+        80,
+        82,
+        83,
+        84,
+        85
+      ],
+      "fact_units": [
+        "Mrs.",
+        "Cavanaugh said she leaves Eddie's lunch on the kitchen counter before leaving for work ten minutes before Eddie leaves for school.",
+        "Cavanaugh said that when she came home from work that afternoon, Eddie's sack lunch was still there.",
+        "Mrs.",
+        "Cavanaugh was glad to see Eddie's friends and quickly invited them in.",
+        "She expressed worry about Eddie getting hurt.",
+        "She said she just wanted her son back.",
+        "Her home was filled with pictures of Eddie, showing her pride and affection.",
+        "She described her routine of making Eddie a healthy lunch and leaving it on the counter before work.",
+        "She claimed she realized Eddie was missing when she saw his lunch still at home after work.",
+        "She expressed gratitude that Eddie's friends cared about him.",
+        "She talked about Marissa and her hopes for her son.",
+        "She invited Eddie's friends to visit any time."
+      ]
+    },
+    "culprit_argument": {
+      "speaker_role": "culprit",
+      "turn_type": "argument",
+      "subject_role": "culprit",
+      "subject_suspect": "Eddie's Mom",
+      "reason_refs": [
+        "eddie_s_mom_incriminating"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "state_guilt_claim_with_incriminating_reason",
+          "reason_id": "eddie_s_mom_incriminating"
+        },
+        {
+          "sentence_index": 2,
+          "job": "fill_reasoning_slot",
+          "slot_id": "culprit_support_reasoning",
+          "goal": "Explain why the fixed incriminating reason supports guilt."
+        }
+      ],
+      "evidence_ids": [
+        32,
+        81
+      ],
+      "fact_units": [
+        "Eddie's sack lunch was found in his locker at school.",
+        "Mrs.",
+        "Cavanaugh claimed that Eddie's sack lunch was left on the kitchen counter at home when she came back from work."
+      ],
+      "accusation_clause": "Eddie's Mom caused Eddie's disappearance before school",
+      "core_conclusion": "Eddie's Mom caused Eddie to disappear before school"
+    },
+    "rival_argument": {
+      "speaker_role": "rival",
+      "turn_type": "argument",
+      "subject_role": "rival",
+      "subject_suspect": "Eddie",
+      "reason_refs": [
+        "eddie_incriminating"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "state_guilt_claim_with_incriminating_reason",
+          "reason_id": "eddie_incriminating"
+        },
+        {
+          "sentence_index": 2,
+          "job": "fill_reasoning_slot",
+          "slot_id": "rival_support_reasoning",
+          "goal": "Explain why the fixed incriminating reason supports guilt."
+        }
+      ],
+      "evidence_ids": [
+        81
+      ],
+      "fact_units": [
+        "Mrs.",
+        "Cavanaugh said she leaves Eddie's lunch on the kitchen counter before leaving for work ten minutes before Eddie leaves for school.",
+        "Cavanaugh said that when she came home from work that afternoon, Eddie's sack lunch was still there."
+      ],
+      "accusation_clause": "Eddie staged his own disappearance before school",
+      "core_conclusion": "Eddie staged his own disappearance before school"
+    },
+    "culprit_rebuttal": {
+      "speaker_role": "culprit",
+      "turn_type": "rebuttal",
+      "subject_role": "rival",
+      "subject_suspect": "Eddie",
+      "reason_refs": [
+        "eddie_incriminating",
+        "eddie_exculpatory"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "reject_opponent_incriminating_reason",
+          "reason_id": "eddie_incriminating",
+          "slot_id": "culprit_rebuttal_of_rival_reasoning",
+          "goal": "Explain why the fixed incriminating reason is insufficient to establish guilt."
+        },
+        {
+          "sentence_index": 2,
+          "job": "state_innocence_with_exculpatory_reason",
+          "reason_id": "eddie_exculpatory",
+          "slot_id": "culprit_exculpatory_reasoning",
+          "goal": "Explain why the fixed exculpatory reason supports innocence."
+        }
+      ],
+      "evidence_ids": [
+        81,
+        32,
+        33,
+        34,
+        35
+      ],
+      "fact_units": [
+        "Mrs.",
+        "Cavanaugh said she leaves Eddie's lunch on the kitchen counter before leaving for work ten minutes before Eddie leaves for school.",
+        "Cavanaugh said that when she came home from work that afternoon, Eddie's sack lunch was still there.",
+        "Eddie's locker contained his cleats, helmet, shoulder pads, kneepads, and a sack lunch.",
+        "On the door of the locker, there was a graph Eddie had drawn for himself, showing various football records.",
+        "The graph tracked the school's, state's, and national records for consecutive wins."
+      ],
+      "accusation_clause": "Eddie staged his own disappearance before school",
+      "opponent_claim_target": "Eddie staged his own disappearance before school",
+      "core_conclusion": "Eddie did not stage his own disappearance before school"
+    },
+    "rival_rebuttal": {
+      "speaker_role": "rival",
+      "turn_type": "rebuttal",
+      "subject_role": "culprit",
+      "subject_suspect": "Eddie's Mom",
+      "reason_refs": [
+        "eddie_s_mom_incriminating",
+        "eddie_s_mom_exculpatory"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "reject_opponent_incriminating_reason",
+          "reason_id": "eddie_s_mom_incriminating",
+          "slot_id": "rival_rebuttal_of_culprit_reasoning",
+          "goal": "Explain why the fixed incriminating reason is insufficient to establish guilt."
+        },
+        {
+          "sentence_index": 2,
+          "job": "state_innocence_with_exculpatory_reason",
+          "reason_id": "eddie_s_mom_exculpatory",
+          "slot_id": "rival_exculpatory_reasoning",
+          "goal": "Explain why the fixed exculpatory reason supports innocence."
+        }
+      ],
+      "evidence_ids": [
+        32,
+        81,
+        75,
+        76,
+        77,
+        78,
+        80,
+        82,
+        83,
+        84,
+        85
+      ],
+      "fact_units": [
+        "Eddie's sack lunch was found in his locker at school.",
+        "Mrs.",
+        "Cavanaugh claimed that Eddie's sack lunch was left on the kitchen counter at home when she came back from work.",
+        "Mrs.",
+        "Cavanaugh was glad to see Eddie's friends and quickly invited them in.",
+        "She expressed worry about Eddie getting hurt.",
+        "She said she just wanted her son back.",
+        "Her home was filled with pictures of Eddie, showing her pride and affection.",
+        "She described her routine of making Eddie a healthy lunch and leaving it on the counter before work.",
+        "She claimed she realized Eddie was missing when she saw his lunch still at home after work.",
+        "She expressed gratitude that Eddie's friends cared about him.",
+        "She talked about Marissa and her hopes for her son.",
+        "She invited Eddie's friends to visit any time."
+      ],
+      "accusation_clause": "Eddie's Mom caused Eddie's disappearance before school",
+      "opponent_claim_target": "Eddie's Mom caused Eddie's disappearance before school",
+      "core_conclusion": "Eddie's Mom did not cause Eddie to disappear before school"
+    }
+  },
+  "turn_dependencies": {
+    "culprit_opening": [],
+    "rival_opening": [],
+    "culprit_argument": [
+      "culprit_opening"
+    ],
+    "rival_argument": [
+      "rival_opening"
+    ],
+    "culprit_rebuttal": [
+      "rival_argument"
+    ],
+    "rival_rebuttal": [
+      "culprit_argument"
+    ]
+  },
+  "culprit_name": "Eddie's Mom",
+  "rival_suspect_name": "Eddie",
+  "speaker_role_map": {
+    "A": "culprit",
+    "B": "rival"
+  },
+  "role_dialogue_source": "outputs/0808/role_dialogues/our-quarterback-is-missing__family-standard__interp-primary-1__anchoring_bias__culprit-active__rival-baseline__rollout-1__seed-none.json",
+  "baseline_source_role_dialogue": "outputs/0808/role_dialogues/our-quarterback-is-missing__family-standard__interp-primary-1__N_A__culprit-baseline__rival-baseline__rollout-1__seed-none.json",
+  "canonical_baseline_content_plan_family": "standard",
+  "canonical_baseline_interpretation_set_id": "primary-1",
+  "canonical_baseline_rollout_index": 1,
+  "canonical_baseline_role_dialogue_source": "outputs/0808/role_dialogues/our-quarterback-is-missing__family-standard__interp-primary-1__N_A__culprit-baseline__rival-baseline__rollout-1__seed-none.json"
+}

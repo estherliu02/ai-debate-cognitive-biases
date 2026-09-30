@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Argument Completeness",
+    "description": "Essential Criteria: Each argument contains all three components -- a clear claim, a warrant explaining why the claim is true, and an impact explaining why it matters to the resolution.",
+    "weight": 5
+  },
+  {
+    "title": "Resolution Linkage",
+    "description": "Essential Criteria: Every argument is explicitly connected back to the resolution, not just to a general principle or related topic.",
+    "weight": 5
+  },
+  {
+    "title": "Evidence Quality",
+    "description": "Important Criteria: Evidence is specific, attributable to an identifiable source or logical basis, and not presented as generic common knowledge when a more specific warrant is available.",
+    "weight": 4
+  },
+  {
+    "title": "Impact Framing",
+    "description": "Important Criteria: The response frames at least one impact in terms that allow future comparison, like magnitude, probability, timeframe, or reversibility, rather than asserting impact without a measurable dimension.",
+    "weight": 3
+  },
+  {
+    "title": "Internal Consistency",
+    "description": "Important Criteria: Arguments within the same turn do not contradict each other in their assumptions, values, or factual claims.",
+    "weight": 3
+  },
+  {
+    "title": "Missing Warrant",
+    "description": "Pitfall Criteria: Does not present claims where the logical connection between evidence and conclusion is missing or requires the reader to supply the reasoning.",
+    "weight": -2
+  },
+  {
+    "title": "Unlinked Impact",
+    "description": "Pitfall Criteria: Does not assert that an impact is large or important without providing any basis for that magnitude claim.",
+    "weight": -1
+  }
+]

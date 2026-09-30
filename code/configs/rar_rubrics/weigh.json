@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Comparative Impact Calculus",
+    "description": "Essential Criteria: The response explicitly compares competing impacts using at least one of the following dimensions: magnitude, probability, timeframe, or reversibility rather than simply asserting one impact is bigger.",
+    "weight": 5
+  },
+  {
+    "title": "Metric Consistency",
+    "description": "Essential Criteria: The weighing metric applied to the response's own impacts is also applied to the opponent's impacts, using the same standard rather than switching frameworks to favor each side.",
+    "weight": 4
+  },
+  {
+    "title": "Framing the Round",
+    "description": "Important Criteria: The response articulates a reason why the judge should prefer its weighing framework over the opponent's, not just why its impacts are larger within a shared framework.",
+    "weight": 3
+  },
+  {
+    "title": "Precedence Argument",
+    "description": "Optional Criteria: Where impacts are roughly comparable in magnitude, the response provides a principled reason why one type of harm or benefit should take precedence.",
+    "weight": 2
+  },
+  {
+    "title": "Unanchored Comparison",
+    "description": "Pitfall Criteria: Does not compare impacts using vague language like 'more important' or 'outweighs' without specifying the dimension on which the comparison is being made.",
+    "weight": -2
+  },
+  {
+    "title": "Double Standard",
+    "description": "Pitfall Criteria: Does not apply a stricter evidentiary or logical standard to the opponent's impacts than to its own when making comparative claims.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,370 @@
+﻿dialogue_id,dialogue_word_count,case,topic,bias_type,fallacy_subtype,variant_a,variant_b,ground_truth_side_order,dialogue_variant,adjudication,reward_type
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,B,base_reward
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,B,base_reward
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,B,base_reward
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+1,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+2,763,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,active,baseline,gt_first,primary-1,B,base_reward
+2,763,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+2,763,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+3,737,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+3,737,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+3,737,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+3,737,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,active,baseline,gt_first,primary-2,B,base_reward
+3,737,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+4,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+4,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-1,B,base_reward
+4,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-1,B,base_reward
+4,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+5,743,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+5,743,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+5,743,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-2,B,base_reward
+5,743,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+5,743,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,anchoring_bias,,baseline,active,gt_first,primary-2,B,base_reward
+6,713,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,active,baseline,gt_first,primary-1,A,base_plus_incentive
+6,713,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,active,baseline,gt_first,primary-1,A,base_plus_incentive
+6,713,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,active,baseline,gt_first,primary-1,B,base_reward
+6,713,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,active,baseline,gt_first,primary-1,A,base_plus_incentive
+6,713,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,active,baseline,gt_first,primary-1,A,base_plus_incentive
+7,731,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,genetic_fallacy,active,baseline,gt_first,primary-2,B,base_reward
+7,731,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,genetic_fallacy,active,baseline,gt_first,primary-2,A,base_plus_incentive
+7,731,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,genetic_fallacy,active,baseline,gt_first,primary-2,B,base_reward
+7,731,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,genetic_fallacy,active,baseline,gt_first,primary-2,A,base_plus_incentive
+7,731,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,genetic_fallacy,active,baseline,gt_first,primary-2,A,base_plus_incentive
+8,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-1,B,base_reward
+8,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-1,A,base_plus_incentive
+8,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-1,B,base_reward
+8,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-1,B,base_reward
+8,717,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-1,B,base_reward
+9,723,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-2,A,base_plus_incentive
+9,723,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-2,A,base_plus_incentive
+9,723,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-2,A,base_plus_incentive
+9,723,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-2,A,base_plus_incentive
+9,723,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,fallacy_trait,straw_man,baseline,active,gt_first,primary-2,A,base_plus_incentive
+10,756,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+10,756,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+10,756,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+10,756,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-1,B,base_reward
+10,756,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-1,B,base_reward
+11,747,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-2,B,base_reward
+11,747,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+11,747,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+11,747,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-2,B,base_reward
+11,747,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+12,705,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+12,705,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-1,B,base_reward
+12,705,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+12,705,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+13,728,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+13,728,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+13,728,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+13,728,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+13,728,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,pro_jargon_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+14,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-1,B,base_reward
+14,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+14,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-1,B,base_reward
+14,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+14,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-1,B,base_reward
+15,844,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+15,844,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-2,B,base_reward
+15,844,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-2,B,base_reward
+15,844,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+15,844,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+16,853,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-1,B,base_reward
+16,853,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+16,853,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+16,853,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+16,853,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-1,B,base_reward
+17,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+17,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+17,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+17,861,our-quarterback-is-missing,Who was responsible for causing Eddie's disappearance before school: Eddie's Mom or Eddie?,verbosity_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,B,base_reward
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,B,base_reward
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,B,base_reward
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,B,base_reward
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,A,base_plus_incentive
+18,673,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,N/A,,baseline,baseline,gt_first,primary-1,B,base_reward
+19,717,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-1,B,base_reward
+19,717,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-1,B,base_reward
+19,717,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+19,717,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-1,B,base_reward
+19,717,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-1,B,base_reward
+20,713,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+20,713,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+20,713,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-2,B,base_reward
+20,713,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+20,713,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+21,691,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,baseline,active,gt_first,primary-1,B,base_reward
+21,691,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,baseline,active,gt_first,primary-1,B,base_reward
+21,691,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+21,691,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,baseline,active,gt_first,primary-1,B,base_reward
+21,691,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,baseline,active,gt_first,primary-1,B,base_reward
+22,684,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+22,684,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+22,684,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,anchoring_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+23,698,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-1,B,base_reward
+23,698,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-1,A,base_plus_incentive
+23,698,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-1,A,base_plus_incentive
+23,698,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-1,A,base_plus_incentive
+24,704,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-2,B,base_reward
+24,704,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-2,A,base_plus_incentive
+24,704,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-2,A,base_plus_incentive
+24,704,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-2,A,base_plus_incentive
+24,704,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,active,baseline,gt_first,primary-2,A,base_plus_incentive
+25,688,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-1,B,base_reward
+25,688,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-1,A,base_plus_incentive
+25,688,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-1,A,base_plus_incentive
+25,688,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-1,B,base_reward
+25,688,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-1,B,base_reward
+26,665,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-2,A,base_plus_incentive
+26,665,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-2,B,base_reward
+26,665,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-2,B,base_reward
+26,665,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-2,B,base_reward
+26,665,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,fallacy_trait,post_hoc_ergo_propter_hoc,baseline,active,gt_first,primary-2,B,base_reward
+27,715,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+27,715,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+27,715,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+27,715,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+28,675,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+28,675,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+28,675,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,active,baseline,gt_first,primary-2,B,base_reward
+28,675,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+29,682,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+29,682,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-1,B,base_reward
+29,682,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-1,B,base_reward
+29,682,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+29,682,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+30,670,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-2,B,base_reward
+30,670,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+30,670,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-2,A,base_plus_incentive
+30,670,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-2,B,base_reward
+30,670,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,pro_jargon_bias,,baseline,active,gt_first,primary-2,B,base_reward
+31,806,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,active,baseline,gt_first,primary-1,B,base_reward
+31,806,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+31,806,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,active,baseline,gt_first,primary-1,B,base_reward
+31,806,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+31,806,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,active,baseline,gt_first,primary-1,A,base_plus_incentive
+32,808,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+32,808,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,active,baseline,gt_first,primary-2,A,base_plus_incentive
+32,808,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,active,baseline,gt_first,primary-2,B,base_reward
+33,819,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+33,819,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-1,B,base_reward
+33,819,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-1,B,base_reward
+33,819,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-1,A,base_plus_incentive
+33,819,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-1,B,base_reward
+34,828,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-2,B,base_reward
+34,828,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-2,B,base_reward
+34,828,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-2,B,base_reward
+34,828,the-diamond-necklace,Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?,verbosity_bias,,baseline,active,gt_first,primary-2,B,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+35,642,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+36,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+36,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+36,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-1,A,base_reward
+36,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-1,A,base_reward
+36,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-1,A,base_reward
+37,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-2,A,base_reward
+37,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-2,A,base_reward
+37,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-2,A,base_reward
+37,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-2,A,base_reward
+37,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,active,baseline,gt_second,primary-2,B,base_plus_incentive
+38,667,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+38,667,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-1,A,base_reward
+38,667,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+38,667,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+38,667,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+39,686,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+39,686,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-2,A,base_reward
+39,686,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+39,686,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,anchoring_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+40,649,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,begging_the_question,active,baseline,gt_second,primary-1,A,base_reward
+40,649,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,begging_the_question,active,baseline,gt_second,primary-1,B,base_plus_incentive
+40,649,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,begging_the_question,active,baseline,gt_second,primary-1,A,base_reward
+41,665,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,active,baseline,gt_second,primary-2,A,base_reward
+41,665,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,active,baseline,gt_second,primary-2,A,base_reward
+41,665,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,active,baseline,gt_second,primary-2,A,base_reward
+41,665,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,active,baseline,gt_second,primary-2,B,base_plus_incentive
+41,665,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,active,baseline,gt_second,primary-2,A,base_reward
+42,657,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,hasty_generalization,baseline,active,gt_second,primary-1,A,base_reward
+42,657,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,hasty_generalization,baseline,active,gt_second,primary-1,A,base_reward
+42,657,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,hasty_generalization,baseline,active,gt_second,primary-1,A,base_reward
+42,657,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,hasty_generalization,baseline,active,gt_second,primary-1,A,base_reward
+42,657,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,hasty_generalization,baseline,active,gt_second,primary-1,A,base_reward
+43,650,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-2,A,base_reward
+43,650,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-2,A,base_reward
+43,650,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-2,B,base_plus_incentive
+43,650,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-2,B,base_plus_incentive
+43,650,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-2,A,base_reward
+44,635,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-1,A,base_reward
+44,635,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-1,A,base_reward
+44,635,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-1,A,base_reward
+44,635,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+44,635,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-1,A,base_reward
+45,651,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-2,A,base_reward
+45,651,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-2,A,base_reward
+45,651,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-2,B,base_plus_incentive
+45,651,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-2,A,base_reward
+45,651,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,active,baseline,gt_second,primary-2,A,base_reward
+46,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+46,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-1,A,base_reward
+46,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-1,A,base_reward
+46,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+47,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+47,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+47,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-2,A,base_reward
+47,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-2,A,base_reward
+47,661,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,pro_jargon_bias,,baseline,active,gt_second,primary-2,A,base_reward
+48,790,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,active,baseline,gt_second,primary-1,A,base_reward
+48,790,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,active,baseline,gt_second,primary-1,A,base_reward
+48,790,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,active,baseline,gt_second,primary-1,A,base_reward
+49,784,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,active,baseline,gt_second,primary-2,A,base_reward
+49,784,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,active,baseline,gt_second,primary-2,A,base_reward
+49,784,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,active,baseline,gt_second,primary-2,A,base_reward
+49,784,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,active,baseline,gt_second,primary-2,A,base_reward
+49,784,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,active,baseline,gt_second,primary-2,B,base_plus_incentive
+50,726,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+50,726,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-1,A,base_reward
+50,726,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-1,A,base_reward
+50,726,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-1,A,base_reward
+50,726,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-1,A,base_reward
+51,715,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+51,715,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-2,A,base_reward
+51,715,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+51,715,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-2,A,base_reward
+51,715,the-missing-briefcase,Who was responsible for stealing the briefcase: Porter 2 or Porter 3?,verbosity_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,B,base_plus_incentive
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+52,683,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,N/A,,baseline,baseline,gt_second,primary-1,A,base_reward
+53,704,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-1,A,base_reward
+53,704,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+53,704,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+53,704,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+53,704,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-1,A,base_reward
+54,710,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-2,A,base_reward
+54,710,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-2,A,base_reward
+54,710,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-2,A,base_reward
+54,710,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-2,B,base_plus_incentive
+54,710,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,active,baseline,gt_second,primary-2,A,base_reward
+55,718,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-1,A,base_reward
+55,718,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-1,A,base_reward
+55,718,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+55,718,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+55,718,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+56,703,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-2,A,base_reward
+56,703,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-2,A,base_reward
+56,703,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+56,703,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-2,A,base_reward
+56,703,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,anchoring_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+57,680,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,moral_equivalence,active,baseline,gt_second,primary-1,A,base_reward
+57,680,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,moral_equivalence,active,baseline,gt_second,primary-1,B,base_plus_incentive
+57,680,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,moral_equivalence,active,baseline,gt_second,primary-1,B,base_plus_incentive
+57,680,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,moral_equivalence,active,baseline,gt_second,primary-1,A,base_reward
+57,680,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,moral_equivalence,active,baseline,gt_second,primary-1,A,base_reward
+58,693,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,genetic_fallacy,active,baseline,gt_second,primary-2,A,base_reward
+58,693,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,genetic_fallacy,active,baseline,gt_second,primary-2,B,base_plus_incentive
+58,693,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,genetic_fallacy,active,baseline,gt_second,primary-2,A,base_reward
+58,693,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,genetic_fallacy,active,baseline,gt_second,primary-2,B,base_plus_incentive
+59,702,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-1,A,base_reward
+59,702,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-1,B,base_plus_incentive
+59,702,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-1,A,base_reward
+59,702,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-1,B,base_plus_incentive
+59,702,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,false_dilemma,baseline,active,gt_second,primary-1,A,base_reward
+60,699,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,straw_man,baseline,active,gt_second,primary-2,B,base_plus_incentive
+60,699,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,straw_man,baseline,active,gt_second,primary-2,B,base_plus_incentive
+60,699,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,straw_man,baseline,active,gt_second,primary-2,B,base_plus_incentive
+60,699,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,straw_man,baseline,active,gt_second,primary-2,A,base_reward
+60,699,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,fallacy_trait,straw_man,baseline,active,gt_second,primary-2,A,base_reward
+61,674,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+61,674,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-1,A,base_reward
+61,674,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+61,674,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-1,A,base_reward
+61,674,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-1,A,base_reward
+62,681,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-2,A,base_reward
+62,681,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-2,B,base_plus_incentive
+62,681,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-2,A,base_reward
+62,681,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-2,B,base_plus_incentive
+62,681,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,active,baseline,gt_second,primary-2,A,base_reward
+63,706,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-1,A,base_reward
+63,706,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+63,706,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+63,706,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+64,709,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+64,709,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+64,709,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+64,709,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-2,A,base_reward
+64,709,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,pro_jargon_bias,,baseline,active,gt_second,primary-2,A,base_reward
+65,828,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-1,A,base_reward
+65,828,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+65,828,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-1,A,base_reward
+65,828,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-1,B,base_plus_incentive
+65,828,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-1,A,base_reward
+66,833,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-2,A,base_reward
+66,833,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-2,A,base_reward
+66,833,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-2,A,base_reward
+66,833,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-2,B,base_plus_incentive
+66,833,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,active,baseline,gt_second,primary-2,B,base_plus_incentive
+67,846,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+67,846,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+67,846,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+67,846,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,baseline,active,gt_second,primary-1,B,base_plus_incentive
+68,844,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+68,844,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+68,844,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive
+68,844,the-mystery-of-the-leprechaun-s-trophy,Who was responsible for stealing the trophy: Casey or Tony?,verbosity_bias,,baseline,active,gt_second,primary-2,B,base_plus_incentive

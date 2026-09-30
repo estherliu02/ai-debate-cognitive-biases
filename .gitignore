@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and secrets
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editors
+.DS_Store
+.vscode/
+.idea/
+
+# Source dataset and built cases (rebuilt from True Detective, see README)
+data/true-detective/
+data/detective_cases/
+
+# Generated outputs
+outputs/
+results/power_curve.csv
+results/power_curve.png

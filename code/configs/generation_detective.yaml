@@ -1,0 +1,37 @@
+run:
+  case_id: our-quarterback-is-missing  # slug from data/detective_cases/_index.json
+  trait_name: verbosity_bias
+  culprit_variant: active
+  rival_variant: baseline
+  variant_name_a: active
+  variant_name_b: baseline
+  ground_truth_side_order: gt_first
+  turns_per_agent: 3
+  max_attempts: 5
+  output_root: outputs/{date}_detective
+  reuse_plan_path: null        # set to a plan path to skip plan generation
+
+rollout:
+  max_visible_turns: 3
+  max_turn_retries: 10
+
+bias_runtime:
+  pairwise_bias_turn_types: [argument, rebuttal]
+  pairwise_reasoning_sentence_only: true
+  pairwise_facts_and_conclusions_fixed: true
+  pairwise_style_plan_output: reasoning_guidelines
+  verbosity_word_gap_measure: average_turn_words
+  verbosity_relative_word_gap_threshold: 25
+  verbosity_active_baseline_word_ratio_target: 1.5
+  verbosity_baseline_word_range: [25, 55]
+  verbosity_active_word_range: [25, 55]
+  verbosity_active_pair_word_gap_range: [0, 10]
+
+rar_evaluation:
+  enabled: true
+  model: anthropic/claude-sonnet-4.6
+  temperature: 0
+  rubric_dir: code/configs/rar_rubrics
+  pass_threshold: 24.0
+  save_outputs: true
+  fail_pipeline_on_rar_failure: false

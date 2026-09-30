@@ -1,0 +1,608 @@
+{
+  "topic": "Who was responsible for stealing the briefcase: Porter 2 or Porter 3?",
+  "case_id": "the-missing-briefcase",
+  "content_plan_family": "verbosity",
+  "interpretation_set_id": "primary-1__additional-1",
+  "trait_name": "verbosity_bias",
+  "variant_name_a": "active",
+  "variant_name_b": "baseline",
+  "ground_truth_side_order": "gt_second",
+  "agent_a_stance": "Porter 2 took the briefcase without permission",
+  "agent_b_stance": "Porter 3 took the briefcase without permission",
+  "metadata": null,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "A",
+      "utterance": "A group of porters was assigned to serve first-class passengers on the train journey that included Ed Beatty. During this trip, Ed discovered that his briefcase was missing from his cabin, leading to an investigation about which porter might have taken it. Around noon on the day in question, Porter 2, who was described as a distinguished looking man of perhaps forty, knocked on Ed’s door to announce that the dining room was open [E15]. Ed privately thought that Porter 2 seemed much too elegant to be a porter on a train, although he considered that the railroad might assign its best staff to first-class travelers [E16]. Porter 2 was noted for his impeccable manners, having assisted Porter 1 in welcoming Ed earlier that day and apologizing for momentarily forgetting Ed’s name [E17]. Later that evening, Porter 3 came on duty; he appeared to be about forty-five years old and was less friendly than the other porters, coming across as slightly standoffish, though he remained cordial and polite [E22]. At that time, Ed noticed that Porter 3’s uniform was especially well-fitted and freshly pressed, possibly because he had just started his shift [E23]. These events and observations were central to the circumstances surrounding the disappearance of Ed’s briefcase.",
+      "opponent_claim_targeted": "null",
+      "attack_move_used": "null",
+      "content_fidelity_note": "All required facts were included in chronological order, following the assigned content goal.",
+      "evidence_citations": [
+        15,
+        16,
+        17,
+        22,
+        23
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": "rival",
+      "speaker_role": "rival",
+      "role_turn_id": "rival_opening"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "B",
+      "utterance": "On a cross-country train journey, Ed Beatty was traveling in a first class sleeper car that was serviced by several porters throughout the day. During this trip, Ed discovered that his briefcase, which held important personal papers and a foreign passport, had gone missing from his cabin. Earlier in the day, Porter 2 had assisted Porter 1 in welcoming Ed, displaying impeccable manners and apologizing when he momentarily forgot Ed’s name [E17]. That evening, Porter 3 came on duty. Porter 3 was observed to be about forty-five years old and, unlike the other porters, was not especially friendly; he was slightly standoffish, though he remained cordial, greeting Ed with a tip of his cap and formally informing him that the dining car was open [E22]. At that time, Ed also noticed that Porter 3’s uniform appeared particularly well-fitted and freshly pressed, perhaps because he had just started his shift [E23]. These interactions and observations occurred before Ed later realized his briefcase was missing from his room.",
+      "opponent_claim_targeted": "null",
+      "attack_move_used": "null",
+      "content_fidelity_note": "All required facts from the assigned package were covered in chronological order with appropriate narrative setup.",
+      "evidence_citations": [
+        17,
+        22,
+        23
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": "culprit",
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_opening"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "A",
+      "utterance": "Porter 2 stole the briefcase. Porter 2, a distinguished looking man of perhaps forty, knocked on Ed’s door around noon to announce that the dining room was open; Ed thought Porter 2 was much too elegant to be a porter on a train; Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and apologized for momentarily forgetting Ed’s name [E15][E16][E17]. These facts could mean that Porter 2’s refined appearance and conduct allowed him to move easily and discreetly among the passengers, creating an ideal opportunity to commit the theft. Porter 2 had welcomed dozens of passengers aboard earlier that morning, and again apologized for momentarily forgetting Ed’s name [E18][E17]. His extensive interaction with passengers could have given him ample opportunity to observe and access Ed’s belongings, supporting suspicion. This separate opportunity to be near the luggage adds another plausible way Porter 2 could have taken the briefcase without permission.",
+      "opponent_claim_targeted": null,
+      "attack_move_used": null,
+      "content_fidelity_note": "Followed the assigned content goal with the required five-sentence, evidence-grounded structure.",
+      "evidence_citations": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "rival",
+      "role_turn_id": "rival_argument"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "B",
+      "utterance": "Porter 3 stole the briefcase. Porter 3 appeared to be about forty-five, was less friendly and somewhat standoffish compared to the other porters, and wore a notably well-fitted, freshly pressed uniform [E22][E23]. These facts could suggest that Porter 3's demeanor and appearance set him apart in a way consistent with suspicion.",
+      "opponent_claim_targeted": null,
+      "attack_move_used": null,
+      "content_fidelity_note": "All sentences adhere to the assigned content goal: one conclusion sentence, one factual sentence with required citations, and one reasoning sentence.",
+      "evidence_citations": [
+        22,
+        23
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_argument"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "A",
+      "utterance": "The accusation that Porter 3 took the briefcase without permission is not justified by the facts presented. Simply noting Porter 3’s age, demeanor, and uniform does not establish that he committed the theft, as these characteristics are not inherently suspicious or linked to the missing briefcase. Porter 3 did not steal the briefcase. Porter 3 appeared to be about forty-five, was somewhat standoffish yet polite, and had a well-fitted, freshly pressed uniform [E22][E23]. These details instead suggest professionalism and normal behavior rather than guilt, weakening the case against him. At six p.m., the third porter came on duty [E21]. Porter 3 only starting his shift at that time may have limited his opportunity to access the briefcase earlier, which further undermines any claim of his involvement.",
+      "opponent_claim_targeted": "Porter 3 took the briefcase without permission",
+      "attack_move_used": "rebuttal",
+      "content_fidelity_note": "I followed the assigned rebuttal structure and only used the required facts and reasoning.",
+      "evidence_citations": [
+        22,
+        23,
+        21
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "rival",
+      "role_turn_id": "rival_rebuttal"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "B",
+      "utterance": "The accusation that Porter 2 took the briefcase is not justified by the evidence presented. The fact that Porter 2 is distinguished and elegant does not directly connect him to the theft. Porter 2 did not steal the briefcase. Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and embarrassedly apologized for momentarily forgetting Ed’s name. These exculpatory details make it less plausible that Porter 2 would be responsible for such a crime.",
+      "opponent_claim_targeted": "Porter 2 took the briefcase",
+      "attack_move_used": "rebuttal",
+      "content_fidelity_note": "I followed the assigned rebuttal goal and used only the specified facts and reasoning.",
+      "evidence_citations": [
+        17
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_rebuttal"
+    }
+  ],
+  "culprit_variant": "baseline",
+  "rival_variant": "active",
+  "rollout_index": 5,
+  "seed": null,
+  "content_attention_question": {
+    "question": "What happened in the story?",
+    "options": [
+      "A briefcase went missing.",
+      "A planned meeting was canceled.",
+      "A missing item was returned.",
+      "A witness wrote a confession."
+    ],
+    "correct_answer": "A briefcase went missing.",
+    "source_evidence_ids": [
+      "E1"
+    ]
+  },
+  "private_truth_used_in_planning": true,
+  "content_plan_version": "pairwise_role_slots_v2",
+  "selected_interpretations": {
+    "culprit_incriminating": {
+      "primary": {
+        "source_reason": "primary",
+        "reason_id": "porter_3_incriminating",
+        "interpretation_index": 1,
+        "interpretation_id": "age_and_appearance_match",
+        "statement": "Porter 3's age and well-maintained appearance could match the profile of a master criminal like Fennell, supporting suspicion."
+      },
+      "additional": {
+        "source_reason": "additional",
+        "reason_id": "porter_3_incriminating_additional",
+        "interpretation_index": 1,
+        "interpretation_id": "opportunity_for_theft",
+        "statement": "Porter 3 coming on duty in the evening could have provided the opportunity to access Ed's cabin and steal the briefcase."
+      }
+    },
+    "culprit_exculpatory": {
+      "primary": {
+        "source_reason": "primary",
+        "reason_id": "porter_3_exculpatory",
+        "interpretation_index": 1,
+        "interpretation_id": "aloofness_could_reduce_suspicion",
+        "statement": "Porter 3's standoffish but polite demeanor could suggest he was simply reserved or new to the job, not necessarily hiding criminal intent."
+      },
+      "additional": {
+        "source_reason": "additional",
+        "reason_id": "porter_3_exculpatory_additional",
+        "interpretation_index": 1,
+        "interpretation_id": "limited_opportunity_due_to_shift",
+        "statement": "Porter 3 only came on duty at six p.m., which could limit his opportunity to access Ed's belongings earlier in the day."
+      }
+    },
+    "rival_incriminating": {
+      "primary": {
+        "source_reason": "primary",
+        "reason_id": "porter_2_incriminating",
+        "interpretation_index": 1,
+        "interpretation_id": "appearance_contradiction",
+        "statement": "Porter 2’s unusually elegant appearance and impeccable manners could suggest he is not a typical porter and may be concealing a different identity."
+      },
+      "additional": {
+        "source_reason": "additional",
+        "reason_id": "porter_2_incriminating_additional",
+        "interpretation_index": 1,
+        "interpretation_id": "opportunity_inference",
+        "statement": "Porter 2’s role in welcoming many passengers could have given him ample opportunity to observe and access Ed’s belongings, supporting suspicion."
+      }
+    },
+    "rival_exculpatory": {
+      "primary": {
+        "source_reason": "primary",
+        "reason_id": "porter_2_exculpatory",
+        "interpretation_index": 1,
+        "interpretation_id": "poise_contradiction",
+        "statement": "Porter 2's embarrassment and lapse in remembering Ed's name may suggest a lack of the composure and social sharpness expected of a master criminal like Fennell."
+      },
+      "additional": {
+        "source_reason": "additional",
+        "reason_id": "porter_2_exculpatory_additional",
+        "interpretation_index": 1,
+        "interpretation_id": "age_ambiguity",
+        "statement": "Porter 2 being described as 'perhaps forty' introduces uncertainty about whether he matches Fennell's exact age, which could cast doubt on his identification as the culprit."
+      }
+    }
+  },
+  "debate_setup": {
+    "wrongdoing_event": "stealing the briefcase",
+    "neutral_event_description": "stealing the briefcase",
+    "claim_realization_bundle": {
+      "neutral_event_description": "stealing the briefcase",
+      "suspect_claims": {
+        "Porter 2": {
+          "accusation_clause": "Porter 2 took the briefcase without permission",
+          "guilt_conclusion": "Porter 2 stole the briefcase",
+          "innocence_conclusion": "Porter 2 did not steal the briefcase"
+        },
+        "Porter 3": {
+          "accusation_clause": "Porter 3 took the briefcase without permission",
+          "guilt_conclusion": "Porter 3 stole the briefcase",
+          "innocence_conclusion": "Porter 3 did not steal the briefcase"
+        }
+      }
+    },
+    "culprit_name": "Porter 3",
+    "rival_suspect_name": "Porter 2",
+    "question": "Who was responsible for stealing the briefcase: Porter 2 or Porter 3?",
+    "culprit_stance": "Porter 3 took the briefcase without permission",
+    "rival_stance": "Porter 2 took the briefcase without permission"
+  },
+  "reasoning_finding_source": "data/detective_cases/the-missing-briefcase.json",
+  "selected_reasons": {
+    "culprit_incriminating": {
+      "reason_id": "porter_3_incriminating",
+      "suspect_name": "Porter 3",
+      "evidence_ids": [
+        22,
+        23
+      ],
+      "evidence_text": [
+        "Porter 3 appeared to be about forty-five and was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Perhaps because he had just come on duty, Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed."
+      ],
+      "fact_units": [
+        "Porter 3 appeared to be about forty-five.",
+        "Porter was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed."
+      ],
+      "direction": "incriminating",
+      "source_reason": "primary",
+      "interpretation_index": 1,
+      "interpretation_id": "age_and_appearance_match",
+      "anchor_reason": "Porter 3's age and well-maintained appearance could match the profile of a master criminal like Fennell, supporting suspicion.",
+      "additional_reason": {
+        "reason_id": "porter_3_incriminating_additional",
+        "suspect_name": "Porter 3",
+        "evidence_ids": [
+          21
+        ],
+        "evidence_text": [
+          "At six p.m., the third porter came on duty."
+        ],
+        "fact_units": [
+          "At six p.m., the third porter came on duty."
+        ],
+        "direction": "incriminating",
+        "source_reason": "additional",
+        "interpretation_index": 1,
+        "interpretation_id": "opportunity_for_theft",
+        "anchor_reason": "Porter 3 coming on duty in the evening could have provided the opportunity to access Ed's cabin and steal the briefcase."
+      }
+    },
+    "culprit_exculpatory": {
+      "reason_id": "porter_3_exculpatory",
+      "suspect_name": "Porter 3",
+      "evidence_ids": [
+        22,
+        23
+      ],
+      "evidence_text": [
+        "Porter 3 appeared to be about forty-five and was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Perhaps because he had just come on duty, Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed."
+      ],
+      "fact_units": [
+        "Porter 3 appeared to be about forty-five.",
+        "Porter was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed."
+      ],
+      "direction": "exculpatory",
+      "source_reason": "primary",
+      "interpretation_index": 1,
+      "interpretation_id": "aloofness_could_reduce_suspicion",
+      "anchor_reason": "Porter 3's standoffish but polite demeanor could suggest he was simply reserved or new to the job, not necessarily hiding criminal intent.",
+      "additional_reason": {
+        "reason_id": "porter_3_exculpatory_additional",
+        "suspect_name": "Porter 3",
+        "evidence_ids": [
+          21
+        ],
+        "evidence_text": [
+          "At six p.m., the third porter came on duty."
+        ],
+        "fact_units": [
+          "At six p.m., the third porter came on duty."
+        ],
+        "direction": "exculpatory",
+        "source_reason": "additional",
+        "interpretation_index": 1,
+        "interpretation_id": "limited_opportunity_due_to_shift",
+        "anchor_reason": "Porter 3 only came on duty at six p.m., which could limit his opportunity to access Ed's belongings earlier in the day."
+      }
+    },
+    "rival_incriminating": {
+      "reason_id": "porter_2_incriminating",
+      "suspect_name": "Porter 2",
+      "evidence_ids": [
+        15,
+        16,
+        17
+      ],
+      "evidence_text": [
+        "Porter 2, a distinguished looking man of perhaps forty, knocked upon Ed’s door around noon to announce that the dining room was open.",
+        "Ed thought, “This man is much too elegant to be a porter on a train”, but considered that perhaps the railroad put its best foot forward for first class travelers.",
+        "Moreover, Porter 2 possessed impeccable manners, as he had assisted Porter 1 in welcoming “Mr. Beatty” earlier that day and had embarrassedly apologized for momentarily forgetting Ed’s name."
+      ],
+      "fact_units": [
+        "Porter 2, a distinguished looking man of perhaps forty, knocked upon Ed’s door around noon to announce that the dining room was open.",
+        "Ed thought Porter 2 was much too elegant to be a porter on a train.",
+        "Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and apologized for momentarily forgetting Ed’s name."
+      ],
+      "direction": "incriminating",
+      "source_reason": "primary",
+      "interpretation_index": 1,
+      "interpretation_id": "appearance_contradiction",
+      "anchor_reason": "Porter 2’s unusually elegant appearance and impeccable manners could suggest he is not a typical porter and may be concealing a different identity.",
+      "additional_reason": {
+        "reason_id": "porter_2_incriminating_additional",
+        "suspect_name": "Porter 2",
+        "evidence_ids": [
+          18,
+          17
+        ],
+        "evidence_text": [
+          "Ed thought nothing of it; Porter 2 had welcomed dozens of passengers aboard earlier that morning.",
+          "Moreover, Porter 2 possessed impeccable manners, as he had assisted Porter 1 in welcoming “Mr. Beatty” earlier that day and had embarrassedly apologized for momentarily forgetting Ed’s name."
+        ],
+        "fact_units": [
+          "Porter 2 had welcomed dozens of passengers aboard earlier that morning.",
+          "Porter 2 apologized for momentarily forgetting Ed’s name."
+        ],
+        "direction": "incriminating",
+        "source_reason": "additional",
+        "interpretation_index": 1,
+        "interpretation_id": "opportunity_inference",
+        "anchor_reason": "Porter 2’s role in welcoming many passengers could have given him ample opportunity to observe and access Ed’s belongings, supporting suspicion."
+      }
+    },
+    "rival_exculpatory": {
+      "reason_id": "porter_2_exculpatory",
+      "suspect_name": "Porter 2",
+      "evidence_ids": [
+        17
+      ],
+      "evidence_text": [
+        "Moreover, Porter 2 possessed impeccable manners, as he had assisted Porter 1 in welcoming “Mr. Beatty” earlier that day and had embarrassedly apologized for momentarily forgetting Ed’s name."
+      ],
+      "fact_units": [
+        "Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and embarrassedly apologized for momentarily forgetting Ed’s name."
+      ],
+      "direction": "exculpatory",
+      "source_reason": "primary",
+      "interpretation_index": 1,
+      "interpretation_id": "poise_contradiction",
+      "anchor_reason": "Porter 2's embarrassment and lapse in remembering Ed's name may suggest a lack of the composure and social sharpness expected of a master criminal like Fennell.",
+      "additional_reason": {
+        "reason_id": "porter_2_exculpatory_additional",
+        "suspect_name": "Porter 2",
+        "evidence_ids": [
+          15
+        ],
+        "evidence_text": [
+          "Porter 2, a distinguished looking man of perhaps forty, knocked upon Ed’s door around noon to announce that the dining room was open."
+        ],
+        "fact_units": [
+          "Porter 2 is described as a distinguished looking man of perhaps forty."
+        ],
+        "direction": "exculpatory",
+        "source_reason": "additional",
+        "interpretation_index": 1,
+        "interpretation_id": "age_ambiguity",
+        "anchor_reason": "Porter 2 being described as 'perhaps forty' introduces uncertainty about whether he matches Fennell's exact age, which could cast doubt on his identification as the culprit."
+      }
+    }
+  },
+  "role_turn_templates": {
+    "culprit_opening": {
+      "speaker_role": "culprit",
+      "turn_type": "opening",
+      "evidence_ids": [
+        22,
+        23,
+        17
+      ],
+      "fact_units": [
+        "Porter 3 appeared to be about forty-five.",
+        "Porter was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed.",
+        "Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and embarrassedly apologized for momentarily forgetting Ed’s name."
+      ]
+    },
+    "rival_opening": {
+      "speaker_role": "rival",
+      "turn_type": "opening",
+      "evidence_ids": [
+        15,
+        16,
+        17,
+        22,
+        23
+      ],
+      "fact_units": [
+        "Porter 2, a distinguished looking man of perhaps forty, knocked upon Ed’s door around noon to announce that the dining room was open.",
+        "Ed thought Porter 2 was much too elegant to be a porter on a train.",
+        "Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and apologized for momentarily forgetting Ed’s name.",
+        "Porter 3 appeared to be about forty-five.",
+        "Porter was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed."
+      ]
+    },
+    "culprit_argument": {
+      "speaker_role": "culprit",
+      "turn_type": "argument",
+      "subject_role": "culprit",
+      "subject_suspect": "Porter 3",
+      "reason_refs": [
+        "porter_3_incriminating"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "state_guilt_claim_with_incriminating_reason",
+          "reason_id": "porter_3_incriminating"
+        },
+        {
+          "sentence_index": 2,
+          "job": "fill_reasoning_slot",
+          "slot_id": "culprit_support_reasoning",
+          "goal": "Explain why the fixed incriminating reason supports guilt."
+        }
+      ],
+      "evidence_ids": [
+        22,
+        23
+      ],
+      "fact_units": [
+        "Porter 3 appeared to be about forty-five.",
+        "Porter was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed."
+      ],
+      "accusation_clause": "Porter 3 took the briefcase without permission",
+      "core_conclusion": "Porter 3 stole the briefcase"
+    },
+    "rival_argument": {
+      "speaker_role": "rival",
+      "turn_type": "argument",
+      "subject_role": "rival",
+      "subject_suspect": "Porter 2",
+      "reason_refs": [
+        "porter_2_incriminating"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "state_guilt_claim_with_incriminating_reason",
+          "reason_id": "porter_2_incriminating"
+        },
+        {
+          "sentence_index": 2,
+          "job": "fill_reasoning_slot",
+          "slot_id": "rival_support_reasoning",
+          "goal": "Explain why the fixed incriminating reason supports guilt."
+        }
+      ],
+      "evidence_ids": [
+        15,
+        16,
+        17
+      ],
+      "fact_units": [
+        "Porter 2, a distinguished looking man of perhaps forty, knocked upon Ed’s door around noon to announce that the dining room was open.",
+        "Ed thought Porter 2 was much too elegant to be a porter on a train.",
+        "Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and apologized for momentarily forgetting Ed’s name."
+      ],
+      "accusation_clause": "Porter 2 took the briefcase without permission",
+      "core_conclusion": "Porter 2 stole the briefcase"
+    },
+    "culprit_rebuttal": {
+      "speaker_role": "culprit",
+      "turn_type": "rebuttal",
+      "subject_role": "rival",
+      "subject_suspect": "Porter 2",
+      "reason_refs": [
+        "porter_2_incriminating",
+        "porter_2_exculpatory"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "reject_opponent_incriminating_reason",
+          "reason_id": "porter_2_incriminating",
+          "slot_id": "culprit_rebuttal_of_rival_reasoning",
+          "goal": "Explain why the fixed incriminating reason is insufficient to establish guilt."
+        },
+        {
+          "sentence_index": 2,
+          "job": "state_innocence_with_exculpatory_reason",
+          "reason_id": "porter_2_exculpatory",
+          "slot_id": "culprit_exculpatory_reasoning",
+          "goal": "Explain why the fixed exculpatory reason supports innocence."
+        }
+      ],
+      "evidence_ids": [
+        15,
+        16,
+        17
+      ],
+      "fact_units": [
+        "Porter 2, a distinguished looking man of perhaps forty, knocked upon Ed’s door around noon to announce that the dining room was open.",
+        "Ed thought Porter 2 was much too elegant to be a porter on a train.",
+        "Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and apologized for momentarily forgetting Ed’s name.",
+        "Porter 2 possessed impeccable manners, assisted Porter 1 in welcoming Ed, and embarrassedly apologized for momentarily forgetting Ed’s name."
+      ],
+      "accusation_clause": "Porter 2 took the briefcase without permission",
+      "opponent_claim_target": "Porter 2 took the briefcase without permission",
+      "core_conclusion": "Porter 2 did not steal the briefcase"
+    },
+    "rival_rebuttal": {
+      "speaker_role": "rival",
+      "turn_type": "rebuttal",
+      "subject_role": "culprit",
+      "subject_suspect": "Porter 3",
+      "reason_refs": [
+        "porter_3_incriminating",
+        "porter_3_exculpatory"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "reject_opponent_incriminating_reason",
+          "reason_id": "porter_3_incriminating",
+          "slot_id": "rival_rebuttal_of_culprit_reasoning",
+          "goal": "Explain why the fixed incriminating reason is insufficient to establish guilt."
+        },
+        {
+          "sentence_index": 2,
+          "job": "state_innocence_with_exculpatory_reason",
+          "reason_id": "porter_3_exculpatory",
+          "slot_id": "rival_exculpatory_reasoning",
+          "goal": "Explain why the fixed exculpatory reason supports innocence."
+        }
+      ],
+      "evidence_ids": [
+        22,
+        23
+      ],
+      "fact_units": [
+        "Porter 3 appeared to be about forty-five.",
+        "Porter was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed.",
+        "Porter 3 appeared to be about forty-five.",
+        "Porter was not as friendly as the others—in fact he seemed slightly standoffish, although he was cordial and greeted Ed with a tip of his cap and politely but formally informed him that the dining car was open for the evening meal.",
+        "Ed noticed Porter 3’s uniform to be especially well-fitted and freshly pressed."
+      ],
+      "accusation_clause": "Porter 3 took the briefcase without permission",
+      "opponent_claim_target": "Porter 3 took the briefcase without permission",
+      "core_conclusion": "Porter 3 did not steal the briefcase"
+    }
+  },
+  "turn_dependencies": {
+    "culprit_opening": [],
+    "rival_opening": [],
+    "culprit_argument": [
+      "culprit_opening"
+    ],
+    "rival_argument": [
+      "rival_opening"
+    ],
+    "culprit_rebuttal": [
+      "rival_argument"
+    ],
+    "rival_rebuttal": [
+      "culprit_argument"
+    ]
+  },
+  "culprit_name": "Porter 3",
+  "rival_suspect_name": "Porter 2",
+  "speaker_role_map": {
+    "A": "rival",
+    "B": "culprit"
+  },
+  "role_dialogue_source": "outputs/0810/role_dialogues/the-missing-briefcase__family-verbosity__interp-primary-1__additional-1__verbosity_bias__culprit-baseline__rival-active__rollout-5__seed-none.json",
+  "baseline_source_role_dialogue": "outputs/0810/role_dialogues/the-missing-briefcase__family-standard__interp-primary-1__N_A__culprit-baseline__rival-baseline__rollout-1__seed-none.json",
+  "canonical_baseline_content_plan_family": "standard",
+  "canonical_baseline_interpretation_set_id": "primary-1",
+  "canonical_baseline_rollout_index": 1,
+  "canonical_baseline_role_dialogue_source": "outputs/0810/role_dialogues/the-missing-briefcase__family-standard__interp-primary-1__N_A__culprit-baseline__rival-baseline__rollout-1__seed-none.json"
+}

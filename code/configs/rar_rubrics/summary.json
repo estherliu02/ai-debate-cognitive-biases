@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Flow Crystallization",
+    "description": "Essential Criteria: The response narrows the debate to the two or three most important voting issues rather than attempting to re-litigate every argument from earlier turns.",
+    "weight": 5
+  },
+  {
+    "title": "Prior Turn Coherence",
+    "description": "Essential Criteria: The response does not introduce entirely new arguments that were not developed in earlier turns, and instead extends or collapses arguments already on the flow.",
+    "weight": 4
+  },
+  {
+    "title": "Strategic Goal Execution",
+    "description": "Important Criteria: The response executes or explicitly responds to the strategic_goal_for_next_turn stated in the immediately preceding turn -- the plan articulated was carried out.",
+    "weight": 3
+  },
+  {
+    "title": "Impact Hierarchy",
+    "description": "Important Criteria: The response provides a clear ordering of why one or two impacts should determine the round outcome, with reasoning that connects to earlier established warrants.",
+    "weight": 3
+  },
+  {
+    "title": "New Argument Injection",
+    "description": "Pitfall Criteria: Does not introduce a new substantive argument (one that was not advanced or at least foreshadowed in an earlier turn as a primary voting issue in a summary speech).",
+    "weight": -2
+  },
+  {
+    "title": "Uncontested Concession",
+    "description": "Pitfall Criteria: Does not leave a key opponent argument that was never refuted in any prior turn without acknowledgment, even if only to minimize its impact.",
+    "weight": -2
+  }
+]

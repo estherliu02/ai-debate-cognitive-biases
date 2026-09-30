@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Logical Organization",
+    "description": "Essential Criteria: The response follows a clear, traceable structure where each claim flows logically to the next and the overall argument path is easy to follow without re-reading.",
+    "weight": 4
+  },
+  {
+    "title": "Claim Support",
+    "description": "Essential Criteria: Every major claim is accompanied by either evidence, a warrant, or explicit logical reasoning. No bare assertions are left unsupported.",
+    "weight": 5
+  },
+  {
+    "title": "Evidence Relevance",
+    "description": "Important Criteria: Evidence cited is directly relevant to the claim it supports and is not stretched or misapplied to cover a different point.",
+    "weight": 3
+  },
+  {
+    "title": "Conduct and Representation",
+    "description": "Important Criteria: The response accurately represents the opponent's position without distortion, strawmanning, or selective omission of context.",
+    "weight": 3
+  },
+  {
+    "title": "Concision",
+    "description": "Optional Criteria: The response avoids redundancy, filler phrases, and restating already-established points without adding new content.",
+    "weight": 1
+  },
+  {
+    "title": "Bare Assertion",
+    "description": "Pitfall Criteria: Does not make claims of fact or impact without any supporting warrant, evidence, or logical chain.",
+    "weight": -2
+  },
+  {
+    "title": "Position Misrepresentation",
+    "description": "Pitfall Criteria: Does not mischaracterize or exaggerate the opponent's stated position in order to make it easier to refute.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,497 @@
+{
+  "topic": "Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?",
+  "case_id": "the-diamond-necklace",
+  "content_plan_family": "standard",
+  "interpretation_set_id": "primary-2",
+  "trait_name": "pro_jargon_bias",
+  "variant_name_a": "active",
+  "variant_name_b": "baseline",
+  "ground_truth_side_order": "gt_first",
+  "agent_a_stance": "Fiona Duncan hid the necklace somewhere on her person",
+  "agent_b_stance": "Colonel Barrow hid the necklace somewhere on his person",
+  "metadata": null,
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "A",
+      "utterance": "A group of friends gathered at Eleanor Williams's elegant apartment for a cocktail party, including Fiona Duncan and Colonel Barrow. During this gathering, Eleanor's diamond necklace was left on the bed and later discovered missing, prompting questions about who hid the necklace anywhere on her person. Fiona Duncan attended the event wearing a pair of high heel shoes with pointy heels, which Eleanor particularly disliked because they left deep indentations in the plush carpet covering all floors except the kitchen [E15]. Colonel Barrow arrived in a too-baggy suit with oversized coat pockets and lapels, which Eleanor noted to herself upon seeing him [E21]. When the guests arrived, Eleanor took Colonel Barrow's coat and placed it in the same closet with Fiona Duncan's jacket [E24]. After the evening concluded, Eleanor, though facing some physical limitations in her later years, carefully inspected the bedroom [E47].",
+      "opponent_claim_targeted": "null",
+      "attack_move_used": "null",
+      "content_fidelity_note": "All required facts from the assigned opening package are included in correct chronology without argument or conclusion.",
+      "evidence_citations": [
+        15,
+        21,
+        24,
+        47
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": "culprit",
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_opening"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "B",
+      "utterance": "On the evening in question, Eleanor Williams hosted a small gathering of friends at her downtown penthouse. The central event under discussion is the disappearance of Eleanor’s diamond necklace, which was left on the bed in her bedroom. Fiona Duncan attended the gathering wearing a simple and relatively inexpensive evening dress, complemented by a tasteful matching purse and jacket [E14]. Upon arrival, Fiona’s jacket and purse were placed in the hall closet, which was located outside the bedroom and visible from the restroom; at that time, the necklace was still lying on the bed [E17]. Eleanor also placed Colonel Barrow’s coat in the same closet with Fiona’s jacket [E24]. During the cocktail period, Colonel Barrow left the living room to visit the hall restroom, which was situated next to the closet, and shortly after, Fiona also went to the restroom to wash her hands [E34]. These movements occurred while the necklace remained in place, and both suspects had opportunities to access the hallway area and the closet. The investigation centers on determining whether Colonel Barrow was responsible for hiding the necklace anywhere on his person during this sequence of events.",
+      "opponent_claim_targeted": "null",
+      "attack_move_used": "null",
+      "content_fidelity_note": "All assigned facts are included in correct order with required context; no argument or proof language is present.",
+      "evidence_citations": [
+        14,
+        17,
+        24,
+        34
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": "rival",
+      "speaker_role": "rival",
+      "role_turn_id": "rival_opening"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "A",
+      "utterance": "Fiona Duncan hid the necklace on her person. Fiona was wearing high heel shoes with pointed heels known to leave pronounced indentations in the apartment’s plush carpeting, and Eleanor conducted a meticulous examination of the bedroom after noticing the necklace was missing [E15][E47]. The probative value of these facts lies in linking Fiona’s distinctive footwear to physical evidence in the bedroom, thereby supporting the inference that she could have concealed the necklace on her person.",
+      "opponent_claim_targeted": null,
+      "attack_move_used": null,
+      "content_fidelity_note": "All required elements—assigned conclusion, fixed facts with mandated citations, and a reasoning sentence connecting the facts to the conclusion—are present and in the correct order.",
+      "evidence_citations": [
+        15,
+        47
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_argument"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "B",
+      "utterance": "Colonel Barrow hid the necklace on his person. During the cocktail period, Colonel Barrow excused himself to visit the hall restroom near the closet, the necklace was left on the bed visible from both the restroom and closet, and Eleanor put his coat in the same closet with Fiona Duncan’s jacket [E34][E17][E24]. These circumstances could have allowed Colonel Barrow an opportunity to discreetly take and hide the necklace on his person.",
+      "opponent_claim_targeted": null,
+      "attack_move_used": null,
+      "content_fidelity_note": "Followed the assigned content goal, presenting the required claim, facts, and reasoning with correct citations.",
+      "evidence_citations": [
+        34,
+        17,
+        24
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "rival",
+      "role_turn_id": "rival_argument"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "A",
+      "utterance": "The accusation that Colonel Barrow hid the necklace somewhere on his person is not justified. Proximity to the closet and restroom at the relevant time does not provide sufficient evidentiary basis for concluding he committed the act. Colonel Barrow did not hide the necklace on his person. Eleanor took Colonel Barrow's coat and put it in the closet with Fiona Duncan’s jacket, and he wore a suit with large coat pockets and lapels [E24][E21]. These exculpatory facts directly undermine any inference of secretive concealment and reinforce his innocence.",
+      "opponent_claim_targeted": "Colonel Barrow hid the necklace somewhere on his person",
+      "attack_move_used": "rebuttal",
+      "content_fidelity_note": "I followed the assigned content goal, rebutting the opponent's claim using only the specified facts and reasoning.",
+      "evidence_citations": [
+        24,
+        21
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "culprit",
+      "role_turn_id": "culprit_rebuttal"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "B",
+      "utterance": "The accusation that Fiona Duncan hid the necklace on her person is not justified. The presence of high heel shoes and a careful search of the bedroom do not definitively link Fiona to hiding the necklace. Fiona Duncan did not hide the necklace on her person. Fiona wore a simple evening dress with a matching purse and jacket, and Eleanor took her jacket and purse to the hall closet while the necklace was still visible on the bed from both the restroom and the closet [E14][E17]. These exculpatory facts make it unlikely that Fiona had the opportunity or means to conceal the necklace on her person.",
+      "opponent_claim_targeted": "Fiona Duncan hid the necklace on her person",
+      "attack_move_used": "rebuttal",
+      "content_fidelity_note": "All required content slots and evidence were used as directed.",
+      "evidence_citations": [
+        14,
+        17
+      ],
+      "content_preservation_note": null,
+      "treatment_realization_note": null,
+      "generated_from_role_opening": null,
+      "speaker_role": "rival",
+      "role_turn_id": "rival_rebuttal"
+    }
+  ],
+  "culprit_variant": "active",
+  "rival_variant": "baseline",
+  "rollout_index": 24,
+  "seed": null,
+  "content_attention_question": {
+    "question": "What happened in the story?",
+    "options": [
+      "A valuable necklace went missing.",
+      "A planned meeting was canceled.",
+      "A missing item was returned.",
+      "A witness wrote a confession."
+    ],
+    "correct_answer": "A valuable necklace went missing.",
+    "source_evidence_ids": [
+      "E1"
+    ]
+  },
+  "private_truth_used_in_planning": true,
+  "content_plan_version": "pairwise_role_slots_v2",
+  "selected_interpretations": {
+    "culprit_incriminating": {
+      "source_reason": "primary",
+      "reason_id": "fiona_duncan_incriminating",
+      "interpretation_index": 2,
+      "interpretation_id": "opportunity_by_presence",
+      "statement": "The presence of Fiona's heel marks in the bedroom may indicate she had the opportunity to access the necklace when others did not."
+    },
+    "culprit_exculpatory": {
+      "source_reason": "primary",
+      "reason_id": "fiona_duncan_exculpatory",
+      "interpretation_index": 2,
+      "interpretation_id": "alternate_access_possibility",
+      "statement": "The fact that the necklace was visible from both the restroom and the hall closet suggests that any guest using these areas could have noticed and taken the necklace, not just Fiona."
+    },
+    "rival_incriminating": {
+      "source_reason": "primary",
+      "reason_id": "colonel_barrow_incriminating",
+      "interpretation_index": 2,
+      "interpretation_id": "access_and_concealment",
+      "statement": "Colonel Barrow’s coat was placed in the hall closet near the bedroom, giving him both access to the necklace and a potential means to conceal it."
+    },
+    "rival_exculpatory": {
+      "source_reason": "primary",
+      "reason_id": "colonel_barrow_exculpatory",
+      "interpretation_index": 2,
+      "interpretation_id": "lack_of_hiding_place",
+      "statement": "Although Colonel Barrow's coat had large pockets suitable for concealing items, the fact that it was removed and stored by Eleanor suggests he lacked a convenient hiding place for the necklace during the relevant period."
+    }
+  },
+  "debate_setup": {
+    "wrongdoing_event": "hiding the necklace anywhere on her person",
+    "neutral_event_description": "hiding the necklace anywhere on her person",
+    "claim_realization_bundle": {
+      "neutral_event_description": "hiding the necklace anywhere on her person",
+      "suspect_claims": {
+        "Colonel Barrow": {
+          "accusation_clause": "Colonel Barrow hid the necklace somewhere on his person",
+          "guilt_conclusion": "Colonel Barrow hid the necklace on his person",
+          "innocence_conclusion": "Colonel Barrow did not hide the necklace on his person"
+        },
+        "Fiona Duncan": {
+          "accusation_clause": "Fiona Duncan hid the necklace somewhere on her person",
+          "guilt_conclusion": "Fiona Duncan hid the necklace on her person",
+          "innocence_conclusion": "Fiona Duncan did not hide the necklace on her person"
+        }
+      }
+    },
+    "culprit_name": "Fiona Duncan",
+    "rival_suspect_name": "Colonel Barrow",
+    "question": "Who was responsible for hiding the necklace anywhere on their person: Fiona Duncan or Colonel Barrow?",
+    "culprit_stance": "Fiona Duncan hid the necklace somewhere on her person",
+    "rival_stance": "Colonel Barrow hid the necklace somewhere on his person"
+  },
+  "reasoning_finding_source": "data/detective_cases/the-diamond-necklace.json",
+  "selected_reasons": {
+    "culprit_incriminating": {
+      "reason_id": "fiona_duncan_incriminating",
+      "suspect_name": "Fiona Duncan",
+      "evidence_ids": [
+        15,
+        47
+      ],
+      "evidence_text": [
+        "She also wore a pair of high heel shoes with the pointy heels that Eleanor detested, not only because she did not like the looks of them, but they tended to put deep indentations into the plush carpet which covered all of the floors in the elegant apartment, except the kitchen.",
+        "Eleanor, failing a bit physically in her later years but still in possession of a razor sharp mind, looked over the bedroom carefully."
+      ],
+      "fact_units": [
+        "Fiona wore high heel shoes with pointy heels that tended to put deep indentations into the plush carpet which covered all of the floors in the elegant apartment, except the kitchen.",
+        "Eleanor, after discovering the necklace missing, looked over the bedroom carefully."
+      ],
+      "direction": "incriminating",
+      "source_reason": "primary",
+      "interpretation_index": 2,
+      "interpretation_id": "opportunity_by_presence",
+      "anchor_reason": "The presence of Fiona's heel marks in the bedroom may indicate she had the opportunity to access the necklace when others did not."
+    },
+    "culprit_exculpatory": {
+      "reason_id": "fiona_duncan_exculpatory",
+      "suspect_name": "Fiona Duncan",
+      "evidence_ids": [
+        14,
+        17
+      ],
+      "evidence_text": [
+        "Fiona, quiet and unassuming, sported a simple and relatively inexpensive evening dress, but with a very tasteful matching purse and jacket.",
+        "She took Fiona’s jacket and purse to the hall closet, still not remembering the sparkling necklace lying on the bed, easily visible from the restroom and hall closet outside."
+      ],
+      "fact_units": [
+        "Fiona wore a simple evening dress with a matching purse and jacket.",
+        "Eleanor took Fiona’s jacket and purse to the hall closet, with the necklace still lying on the bed, visible from the restroom and hall closet."
+      ],
+      "direction": "exculpatory",
+      "source_reason": "primary",
+      "interpretation_index": 2,
+      "interpretation_id": "alternate_access_possibility",
+      "anchor_reason": "The fact that the necklace was visible from both the restroom and the hall closet suggests that any guest using these areas could have noticed and taken the necklace, not just Fiona."
+    },
+    "rival_incriminating": {
+      "reason_id": "colonel_barrow_incriminating",
+      "suspect_name": "Colonel Barrow",
+      "evidence_ids": [
+        34,
+        17,
+        24
+      ],
+      "evidence_text": [
+        "During the cocktail period, Colonel Barrow excused himself from the group to visit the hall restroom, which sat just off of the living room entrance and next to the closet, and Fiona followed shortly thereafter to wash her hands.",
+        "She took Fiona’s jacket and purse to the hall closet, still not remembering the sparkling necklace lying on the bed, easily visible from the restroom and hall closet outside.",
+        "Eleanor took his coat and put it in the same closet with Fiona Duncan’s jacket."
+      ],
+      "fact_units": [
+        "During the cocktail period, Colonel Barrow excused himself from the group to visit the hall restroom, which sat just off of the living room entrance and next to the closet.",
+        "The necklace was left on the bed, easily visible from the restroom and hall closet outside.",
+        "Eleanor took Colonel Barrow's coat and put it in the same closet with Fiona Duncan’s jacket."
+      ],
+      "direction": "incriminating",
+      "source_reason": "primary",
+      "interpretation_index": 2,
+      "interpretation_id": "access_and_concealment",
+      "anchor_reason": "Colonel Barrow’s coat was placed in the hall closet near the bedroom, giving him both access to the necklace and a potential means to conceal it."
+    },
+    "rival_exculpatory": {
+      "reason_id": "colonel_barrow_exculpatory",
+      "suspect_name": "Colonel Barrow",
+      "evidence_ids": [
+        24,
+        21
+      ],
+      "evidence_text": [
+        "Eleanor took his coat and put it in the same closet with Fiona Duncan’s jacket.",
+        "Eleanor inwardly groaned when she saw him in his too-baggy suit with unfashionably large coat pockets and lapels."
+      ],
+      "fact_units": [
+        "Eleanor took Colonel Barrow's coat and put it in the closet with Fiona Duncan’s jacket.",
+        "Colonel Barrow wore a suit with unfashionably large coat pockets and lapels."
+      ],
+      "direction": "exculpatory",
+      "source_reason": "primary",
+      "interpretation_index": 2,
+      "interpretation_id": "lack_of_hiding_place",
+      "anchor_reason": "Although Colonel Barrow's coat had large pockets suitable for concealing items, the fact that it was removed and stored by Eleanor suggests he lacked a convenient hiding place for the necklace during the relevant period."
+    }
+  },
+  "role_turn_templates": {
+    "culprit_opening": {
+      "speaker_role": "culprit",
+      "turn_type": "opening",
+      "evidence_ids": [
+        15,
+        47,
+        24,
+        21
+      ],
+      "fact_units": [
+        "Fiona wore high heel shoes with pointy heels that tended to put deep indentations into the plush carpet which covered all of the floors in the elegant apartment, except the kitchen.",
+        "Eleanor, after discovering the necklace missing, looked over the bedroom carefully.",
+        "Eleanor took Colonel Barrow's coat and put it in the closet with Fiona Duncan’s jacket.",
+        "Colonel Barrow wore a suit with unfashionably large coat pockets and lapels."
+      ]
+    },
+    "rival_opening": {
+      "speaker_role": "rival",
+      "turn_type": "opening",
+      "evidence_ids": [
+        34,
+        17,
+        24,
+        14
+      ],
+      "fact_units": [
+        "During the cocktail period, Colonel Barrow excused himself from the group to visit the hall restroom, which sat just off of the living room entrance and next to the closet.",
+        "The necklace was left on the bed, easily visible from the restroom and hall closet outside.",
+        "Eleanor took Colonel Barrow's coat and put it in the same closet with Fiona Duncan’s jacket.",
+        "Fiona wore a simple evening dress with a matching purse and jacket.",
+        "Eleanor took Fiona’s jacket and purse to the hall closet, with the necklace still lying on the bed, visible from the restroom and hall closet."
+      ]
+    },
+    "culprit_argument": {
+      "speaker_role": "culprit",
+      "turn_type": "argument",
+      "subject_role": "culprit",
+      "subject_suspect": "Fiona Duncan",
+      "reason_refs": [
+        "fiona_duncan_incriminating"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "state_guilt_claim_with_incriminating_reason",
+          "reason_id": "fiona_duncan_incriminating"
+        },
+        {
+          "sentence_index": 2,
+          "job": "fill_reasoning_slot",
+          "slot_id": "culprit_support_reasoning",
+          "goal": "Explain why the fixed incriminating reason supports guilt."
+        }
+      ],
+      "evidence_ids": [
+        15,
+        47
+      ],
+      "fact_units": [
+        "Fiona wore high heel shoes with pointy heels that tended to put deep indentations into the plush carpet which covered all of the floors in the elegant apartment, except the kitchen.",
+        "Eleanor, after discovering the necklace missing, looked over the bedroom carefully."
+      ],
+      "accusation_clause": "Fiona Duncan hid the necklace somewhere on her person",
+      "core_conclusion": "Fiona Duncan hid the necklace on her person"
+    },
+    "rival_argument": {
+      "speaker_role": "rival",
+      "turn_type": "argument",
+      "subject_role": "rival",
+      "subject_suspect": "Colonel Barrow",
+      "reason_refs": [
+        "colonel_barrow_incriminating"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "state_guilt_claim_with_incriminating_reason",
+          "reason_id": "colonel_barrow_incriminating"
+        },
+        {
+          "sentence_index": 2,
+          "job": "fill_reasoning_slot",
+          "slot_id": "rival_support_reasoning",
+          "goal": "Explain why the fixed incriminating reason supports guilt."
+        }
+      ],
+      "evidence_ids": [
+        34,
+        17,
+        24
+      ],
+      "fact_units": [
+        "During the cocktail period, Colonel Barrow excused himself from the group to visit the hall restroom, which sat just off of the living room entrance and next to the closet.",
+        "The necklace was left on the bed, easily visible from the restroom and hall closet outside.",
+        "Eleanor took Colonel Barrow's coat and put it in the same closet with Fiona Duncan’s jacket."
+      ],
+      "accusation_clause": "Colonel Barrow hid the necklace somewhere on his person",
+      "core_conclusion": "Colonel Barrow hid the necklace on his person"
+    },
+    "culprit_rebuttal": {
+      "speaker_role": "culprit",
+      "turn_type": "rebuttal",
+      "subject_role": "rival",
+      "subject_suspect": "Colonel Barrow",
+      "reason_refs": [
+        "colonel_barrow_incriminating",
+        "colonel_barrow_exculpatory"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "reject_opponent_incriminating_reason",
+          "reason_id": "colonel_barrow_incriminating",
+          "slot_id": "culprit_rebuttal_of_rival_reasoning",
+          "goal": "Explain why the fixed incriminating reason is insufficient to establish guilt."
+        },
+        {
+          "sentence_index": 2,
+          "job": "state_innocence_with_exculpatory_reason",
+          "reason_id": "colonel_barrow_exculpatory",
+          "slot_id": "culprit_exculpatory_reasoning",
+          "goal": "Explain why the fixed exculpatory reason supports innocence."
+        }
+      ],
+      "evidence_ids": [
+        34,
+        17,
+        24,
+        21
+      ],
+      "fact_units": [
+        "During the cocktail period, Colonel Barrow excused himself from the group to visit the hall restroom, which sat just off of the living room entrance and next to the closet.",
+        "The necklace was left on the bed, easily visible from the restroom and hall closet outside.",
+        "Eleanor took Colonel Barrow's coat and put it in the same closet with Fiona Duncan’s jacket.",
+        "Eleanor took Colonel Barrow's coat and put it in the closet with Fiona Duncan’s jacket.",
+        "Colonel Barrow wore a suit with unfashionably large coat pockets and lapels."
+      ],
+      "accusation_clause": "Colonel Barrow hid the necklace somewhere on his person",
+      "opponent_claim_target": "Colonel Barrow hid the necklace somewhere on his person",
+      "core_conclusion": "Colonel Barrow did not hide the necklace on his person"
+    },
+    "rival_rebuttal": {
+      "speaker_role": "rival",
+      "turn_type": "rebuttal",
+      "subject_role": "culprit",
+      "subject_suspect": "Fiona Duncan",
+      "reason_refs": [
+        "fiona_duncan_incriminating",
+        "fiona_duncan_exculpatory"
+      ],
+      "sentence_jobs": [
+        {
+          "sentence_index": 1,
+          "job": "reject_opponent_incriminating_reason",
+          "reason_id": "fiona_duncan_incriminating",
+          "slot_id": "rival_rebuttal_of_culprit_reasoning",
+          "goal": "Explain why the fixed incriminating reason is insufficient to establish guilt."
+        },
+        {
+          "sentence_index": 2,
+          "job": "state_innocence_with_exculpatory_reason",
+          "reason_id": "fiona_duncan_exculpatory",
+          "slot_id": "rival_exculpatory_reasoning",
+          "goal": "Explain why the fixed exculpatory reason supports innocence."
+        }
+      ],
+      "evidence_ids": [
+        15,
+        47,
+        14,
+        17
+      ],
+      "fact_units": [
+        "Fiona wore high heel shoes with pointy heels that tended to put deep indentations into the plush carpet which covered all of the floors in the elegant apartment, except the kitchen.",
+        "Eleanor, after discovering the necklace missing, looked over the bedroom carefully.",
+        "Fiona wore a simple evening dress with a matching purse and jacket.",
+        "Eleanor took Fiona’s jacket and purse to the hall closet, with the necklace still lying on the bed, visible from the restroom and hall closet."
+      ],
+      "accusation_clause": "Fiona Duncan hid the necklace somewhere on her person",
+      "opponent_claim_target": "Fiona Duncan hid the necklace somewhere on her person",
+      "core_conclusion": "Fiona Duncan did not hide the necklace on her person"
+    }
+  },
+  "turn_dependencies": {
+    "culprit_opening": [],
+    "rival_opening": [],
+    "culprit_argument": [
+      "culprit_opening"
+    ],
+    "rival_argument": [
+      "rival_opening"
+    ],
+    "culprit_rebuttal": [
+      "rival_argument"
+    ],
+    "rival_rebuttal": [
+      "culprit_argument"
+    ]
+  },
+  "culprit_name": "Fiona Duncan",
+  "rival_suspect_name": "Colonel Barrow",
+  "speaker_role_map": {
+    "A": "culprit",
+    "B": "rival"
+  },
+  "role_dialogue_source": "outputs/0807-full/role_dialogues/the-diamond-necklace__family-standard__interp-primary-2__pro_jargon_bias__culprit-active__rival-baseline__rollout-24__seed-none.json",
+  "baseline_source_role_dialogue": "outputs/0807-full/role_dialogues/the-diamond-necklace__family-standard__interp-primary-1__N_A__culprit-baseline__rival-baseline__rollout-1__seed-none.json",
+  "canonical_baseline_content_plan_family": "standard",
+  "canonical_baseline_interpretation_set_id": "primary-1",
+  "canonical_baseline_rollout_index": 1,
+  "canonical_baseline_role_dialogue_source": "outputs/0807-full/role_dialogues/the-diamond-necklace__family-standard__interp-primary-1__N_A__culprit-baseline__rival-baseline__rollout-1__seed-none.json"
+}

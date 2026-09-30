@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Targeted Engagement",
+    "description": "Essential Criteria: The response directly addresses the specific claim identified in opponent_claim_targeted, engaging with the warrant or evidence rather than pivoting to a different point.",
+    "weight": 5
+  },
+  {
+    "title": "Refutation Method",
+    "description": "Essential Criteria: The rebuttal uses at least one explicit method of refutation, like contesting the evidence, undercutting the warrant, turning the argument, or showing the impact does not follow.",
+    "weight": 5
+  },
+  {
+    "title": "No Concession by Silence",
+    "description": "Important Criteria: The response does not leave major opponent arguments entirely unaddressed when those arguments were the stated target of this turn.",
+    "weight": 4
+  },
+  {
+    "title": "Responsive Depth",
+    "description": "Important Criteria: The rebuttal goes beyond simply asserting the opponent is wrong and explains specifically what is incorrect, incomplete, or inapplicable about the targeted claim.",
+    "weight": 3
+  },
+  {
+    "title": "Turn Attempt",
+    "description": "Optional Criteria: Where applicable, the response attempts to show that the opponent's own argument actually supports the affirmative/negative position, rather than only minimizing its impact.",
+    "weight": 2
+  },
+  {
+    "title": "Dropped Argument",
+    "description": "Pitfall Criteria: Does not completely ignore a major opposing argument that the turn_id position and opponent_claim_targeted field indicate should have been addressed.",
+    "weight": -2
+  },
+  {
+    "title": "Assertion-Only Rebuttal",
+    "description": "Pitfall Criteria: Does not rebut by simply reasserting the original position more forcefully without engaging with the opponent's specific warrant.",
+    "weight": -2
+  }
+]
